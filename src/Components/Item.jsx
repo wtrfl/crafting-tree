@@ -1,6 +1,5 @@
 
 import { useHoverContext } from "../utils/HoverContext";
-import { memo } from "react";
 import index from '../utils/file_index.json';
 
 const Item = (({ item, topLevel = false }) => {

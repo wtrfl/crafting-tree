@@ -4,9 +4,6 @@ import craftingGrid from '/crafting-grid.png'
 import createGridFromRecipe from "../utils/createGridFromRecipe";
 import { useEffect, useState } from "react";
 
-import index from "../utils/file_index.json"
-
-
 export default function CraftingGrid({item}) {
 
     const [recipe, setRecipe] = useState([]);

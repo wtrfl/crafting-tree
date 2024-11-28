@@ -1,6 +1,5 @@
 
 import replacements from './replacements.json';
-import index from './file_index.json'
 
 function ensureNineItems(array) {
     while (array.length < 9) {
