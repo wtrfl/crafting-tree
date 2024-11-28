@@ -1014,197 +1014,65 @@
         "icon": "icon/minecraft_dune_armor_trim_smithing_template.png",
         "recipe": "dune_armor_trim_smithing_template.json"
     },
-    "dye_black_bed": {
-        "icon": null,
-        "recipe": "dye_black_bed.json"
-    },
-    "dye_black_carpet": {
-        "icon": null,
-        "recipe": "dye_black_carpet.json"
-    },
     "dye_black_wool": {
-        "icon": null,
-        "recipe": "dye_black_wool.json"
+        "icon": "icon/minecraft_black_wool.png",
+        "recipe": "black_wool.json"
     },
-    "dye_blue_bed": {
-        "icon": null,
-        "recipe": "dye_blue_bed.json"
+    "blue_wool": {
+        "icon": "icon/minecraft_blue_wool.png",
+        "recipe": "blue_wool.json"
     },
-    "dye_blue_carpet": {
-        "icon": null,
-        "recipe": "dye_blue_carpet.json"
+    "brown_wool": {
+        "icon": "icon/minecraft_brown_wool.png",
+        "recipe": "brown_wool.json"
     },
-    "dye_blue_wool": {
-        "icon": null,
-        "recipe": "dye_blue_wool.json"
+    "cyan_wool": {
+        "icon": "icon/minecraft_cyan_wool.png",
+        "recipe": "cyan_wool.json"
     },
-    "dye_brown_bed": {
-        "icon": null,
-        "recipe": "dye_brown_bed.json"
+    "gray_wool": {
+        "icon": "icon/minecraft_gray_wool.png",
+        "recipe": "gray_wool.json"
     },
-    "dye_brown_carpet": {
-        "icon": null,
-        "recipe": "dye_brown_carpet.json"
+    "green_wool": {
+        "icon": "icon/minecraft_green_wool.png",
+        "recipe": "green_wool.json"
     },
-    "dye_brown_wool": {
-        "icon": null,
-        "recipe": "dye_brown_wool.json"
+    "light_blue_wool": {
+        "icon": "icon/minecraft_light_blue_wool.png",
+        "recipe": "light_blue_wool.json"
     },
-    "dye_cyan_bed": {
-        "icon": null,
-        "recipe": "dye_cyan_bed.json"
+    "light_gray_wool": {
+        "icon": "icon/minecraft_light_gray_wool.png",
+        "recipe": "light_gray_wool.json"
     },
-    "dye_cyan_carpet": {
-        "icon": null,
-        "recipe": "dye_cyan_carpet.json"
+    "lime_wool": {
+        "icon": "icon/minecraft_lime_wool.png",
+        "recipe": "lime_wool.json"
     },
-    "dye_cyan_wool": {
-        "icon": null,
-        "recipe": "dye_cyan_wool.json"
+    "magenta_wool": {
+        "icon": "icon/minecraft_magenta_wool.png",
+        "recipe": "magenta_wool.json"
     },
-    "dye_gray_bed": {
-        "icon": null,
-        "recipe": "dye_gray_bed.json"
+    "orange_wool": {
+        "icon": "icon/minecraft_orange_wool.png",
+        "recipe": "orange_wool.json"
     },
-    "dye_gray_carpet": {
-        "icon": null,
-        "recipe": "dye_gray_carpet.json"
+    "pink_wool": {
+        "icon": "icon/minecraft_pink_wool.png",
+        "recipe": "pink_wool.json"
     },
-    "dye_gray_wool": {
-        "icon": null,
-        "recipe": "dye_gray_wool.json"
+    "purple_wool": {
+        "icon": "icon/minecraft_purple_wool.png",
+        "recipe": "purple_wool.json"
     },
-    "dye_green_bed": {
-        "icon": null,
-        "recipe": "dye_green_bed.json"
+    "red_wool": {
+        "icon": "icon/minecraft_red_wool.png",
+        "recipe": "red_wool.json"
     },
-    "dye_green_carpet": {
-        "icon": null,
-        "recipe": "dye_green_carpet.json"
-    },
-    "dye_green_wool": {
-        "icon": null,
-        "recipe": "dye_green_wool.json"
-    },
-    "dye_light_blue_bed": {
-        "icon": null,
-        "recipe": "dye_light_blue_bed.json"
-    },
-    "dye_light_blue_carpet": {
-        "icon": null,
-        "recipe": "dye_light_blue_carpet.json"
-    },
-    "dye_light_blue_wool": {
-        "icon": null,
-        "recipe": "dye_light_blue_wool.json"
-    },
-    "dye_light_gray_bed": {
-        "icon": null,
-        "recipe": "dye_light_gray_bed.json"
-    },
-    "dye_light_gray_carpet": {
-        "icon": null,
-        "recipe": "dye_light_gray_carpet.json"
-    },
-    "dye_light_gray_wool": {
-        "icon": null,
-        "recipe": "dye_light_gray_wool.json"
-    },
-    "dye_lime_bed": {
-        "icon": null,
-        "recipe": "dye_lime_bed.json"
-    },
-    "dye_lime_carpet": {
-        "icon": null,
-        "recipe": "dye_lime_carpet.json"
-    },
-    "dye_lime_wool": {
-        "icon": null,
-        "recipe": "dye_lime_wool.json"
-    },
-    "dye_magenta_bed": {
-        "icon": null,
-        "recipe": "dye_magenta_bed.json"
-    },
-    "dye_magenta_carpet": {
-        "icon": null,
-        "recipe": "dye_magenta_carpet.json"
-    },
-    "dye_magenta_wool": {
-        "icon": null,
-        "recipe": "dye_magenta_wool.json"
-    },
-    "dye_orange_bed": {
-        "icon": null,
-        "recipe": "dye_orange_bed.json"
-    },
-    "dye_orange_carpet": {
-        "icon": null,
-        "recipe": "dye_orange_carpet.json"
-    },
-    "dye_orange_wool": {
-        "icon": null,
-        "recipe": "dye_orange_wool.json"
-    },
-    "dye_pink_bed": {
-        "icon": null,
-        "recipe": "dye_pink_bed.json"
-    },
-    "dye_pink_carpet": {
-        "icon": null,
-        "recipe": "dye_pink_carpet.json"
-    },
-    "dye_pink_wool": {
-        "icon": null,
-        "recipe": "dye_pink_wool.json"
-    },
-    "dye_purple_bed": {
-        "icon": null,
-        "recipe": "dye_purple_bed.json"
-    },
-    "dye_purple_carpet": {
-        "icon": null,
-        "recipe": "dye_purple_carpet.json"
-    },
-    "dye_purple_wool": {
-        "icon": null,
-        "recipe": "dye_purple_wool.json"
-    },
-    "dye_red_bed": {
-        "icon": null,
-        "recipe": "dye_red_bed.json"
-    },
-    "dye_red_carpet": {
-        "icon": null,
-        "recipe": "dye_red_carpet.json"
-    },
-    "dye_red_wool": {
-        "icon": null,
-        "recipe": "dye_red_wool.json"
-    },
-    "dye_white_bed": {
-        "icon": null,
-        "recipe": "dye_white_bed.json"
-    },
-    "dye_white_carpet": {
-        "icon": null,
-        "recipe": "dye_white_carpet.json"
-    },
-    "dye_white_wool": {
-        "icon": null,
-        "recipe": "dye_white_wool.json"
-    },
-    "dye_yellow_bed": {
-        "icon": null,
-        "recipe": "dye_yellow_bed.json"
-    },
-    "dye_yellow_carpet": {
-        "icon": null,
-        "recipe": "dye_yellow_carpet.json"
-    },
-    "dye_yellow_wool": {
-        "icon": null,
-        "recipe": "dye_yellow_wool.json"
+    "yellow_wool": {
+        "icon": "icon/minecraft_yellow_wool.png",
+        "recipe": "yellow_wool.json"
     },
     "emerald": {
         "icon": "icon/minecraft_emerald.png",
