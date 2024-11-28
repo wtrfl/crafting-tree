@@ -1,0 +1,3487 @@
+{
+    "acacia_boat": {
+        "icon": "icon/minecraft_acacia_boat.png",
+        "recipe": "acacia_boat.json"
+    },
+    "acacia_button": {
+        "icon": "icon/minecraft_acacia_button.png",
+        "recipe": "acacia_button.json"
+    },
+    "acacia_chest_boat": {
+        "icon": "icon/minecraft_acacia_chest_boat.png",
+        "recipe": "acacia_chest_boat.json"
+    },
+    "acacia_door": {
+        "icon": "icon/minecraft_acacia_door.png",
+        "recipe": "acacia_door.json"
+    },
+    "acacia_fence": {
+        "icon": "icon/minecraft_acacia_fence.png",
+        "recipe": "acacia_fence.json"
+    },
+    "acacia_fence_gate": {
+        "icon": "icon/minecraft_acacia_fence_gate.png",
+        "recipe": "acacia_fence_gate.json"
+    },
+    "acacia_hanging_sign": {
+        "icon": "icon/minecraft_acacia_hanging_sign.png",
+        "recipe": "acacia_hanging_sign.json"
+    },
+    "acacia_planks": {
+        "icon": "icon/minecraft_acacia_planks.png",
+        "recipe": "acacia_planks.json"
+    },
+    "acacia_pressure_plate": {
+        "icon": "icon/minecraft_acacia_pressure_plate.png",
+        "recipe": "acacia_pressure_plate.json"
+    },
+    "acacia_sign": {
+        "icon": "icon/minecraft_acacia_sign.png",
+        "recipe": "acacia_sign.json"
+    },
+    "acacia_slab": {
+        "icon": "icon/minecraft_acacia_slab.png",
+        "recipe": "acacia_slab.json"
+    },
+    "acacia_stairs": {
+        "icon": "icon/minecraft_acacia_stairs.png",
+        "recipe": "acacia_stairs.json"
+    },
+    "acacia_trapdoor": {
+        "icon": "icon/minecraft_acacia_trapdoor.png",
+        "recipe": "acacia_trapdoor.json"
+    },
+    "acacia_wood": {
+        "icon": "icon/minecraft_acacia_wood.png",
+        "recipe": "acacia_wood.json"
+    },
+    "activator_rail": {
+        "icon": "icon/minecraft_activator_rail.png",
+        "recipe": "activator_rail.json"
+    },
+    "amethyst_block": {
+        "icon": "icon/minecraft_amethyst_block.png",
+        "recipe": "amethyst_block.json"
+    },
+    "andesite": {
+        "icon": "icon/minecraft_andesite.png",
+        "recipe": "andesite.json"
+    },
+    "andesite_slab": {
+        "icon": "icon/minecraft_andesite_slab.png",
+        "recipe": "andesite_slab.json"
+    },
+    "andesite_stairs": {
+        "icon": "icon/minecraft_andesite_stairs.png",
+        "recipe": "andesite_stairs.json"
+    },
+    "andesite_wall": {
+        "icon": "icon/minecraft_andesite_wall.png",
+        "recipe": "andesite_wall.json"
+    },
+    "anvil": {
+        "icon": "icon/minecraft_anvil.png",
+        "recipe": "anvil.json"
+    },
+    "armor_stand": {
+        "icon": "icon/minecraft_armor_stand.png",
+        "recipe": "armor_stand.json"
+    },
+    "arrow": {
+        "icon": "icon/minecraft_arrow.png",
+        "recipe": "arrow.json"
+    },
+    "bamboo_block": {
+        "icon": "icon/minecraft_bamboo_block.png",
+        "recipe": "bamboo_block.json"
+    },
+    "bamboo_button": {
+        "icon": "icon/minecraft_bamboo_button.png",
+        "recipe": "bamboo_button.json"
+    },
+    "bamboo_chest_raft": {
+        "icon": "icon/minecraft_bamboo_chest_raft.png",
+        "recipe": "bamboo_chest_raft.json"
+    },
+    "bamboo_door": {
+        "icon": "icon/minecraft_bamboo_door.png",
+        "recipe": "bamboo_door.json"
+    },
+    "bamboo_fence": {
+        "icon": "icon/minecraft_bamboo_fence.png",
+        "recipe": "bamboo_fence.json"
+    },
+    "bamboo_fence_gate": {
+        "icon": "icon/minecraft_bamboo_fence_gate.png",
+        "recipe": "bamboo_fence_gate.json"
+    },
+    "bamboo_hanging_sign": {
+        "icon": "icon/minecraft_bamboo_hanging_sign.png",
+        "recipe": "bamboo_hanging_sign.json"
+    },
+    "bamboo_mosaic": {
+        "icon": "icon/minecraft_bamboo_mosaic.png",
+        "recipe": "bamboo_mosaic.json"
+    },
+    "bamboo_mosaic_slab": {
+        "icon": "icon/minecraft_bamboo_mosaic_slab.png",
+        "recipe": "bamboo_mosaic_slab.json"
+    },
+    "bamboo_mosaic_stairs": {
+        "icon": "icon/minecraft_bamboo_mosaic_stairs.png",
+        "recipe": "bamboo_mosaic_stairs.json"
+    },
+    "bamboo_planks": {
+        "icon": "icon/minecraft_bamboo_planks.png",
+        "recipe": "bamboo_planks.json"
+    },
+    "bamboo_pressure_plate": {
+        "icon": "icon/minecraft_bamboo_pressure_plate.png",
+        "recipe": "bamboo_pressure_plate.json"
+    },
+    "bamboo_raft": {
+        "icon": "icon/minecraft_bamboo_raft.png",
+        "recipe": "bamboo_raft.json"
+    },
+    "bamboo_sign": {
+        "icon": "icon/minecraft_bamboo_sign.png",
+        "recipe": "bamboo_sign.json"
+    },
+    "bamboo_slab": {
+        "icon": "icon/minecraft_bamboo_slab.png",
+        "recipe": "bamboo_slab.json"
+    },
+    "bamboo_stairs": {
+        "icon": "icon/minecraft_bamboo_stairs.png",
+        "recipe": "bamboo_stairs.json"
+    },
+    "bamboo_trapdoor": {
+        "icon": "icon/minecraft_bamboo_trapdoor.png",
+        "recipe": "bamboo_trapdoor.json"
+    },
+    "barrel": {
+        "icon": "icon/minecraft_barrel.png",
+        "recipe": "barrel.json"
+    },
+    "beacon": {
+        "icon": "icon/minecraft_beacon.png",
+        "recipe": "beacon-mc.json"
+    },
+    "beehive": {
+        "icon": "icon/minecraft_beehive.png",
+        "recipe": "beehive.json"
+    },
+    "beetroot_soup": {
+        "icon": "icon/minecraft_beetroot_soup.png",
+        "recipe": "beetroot_soup.json"
+    },
+    "birch_boat": {
+        "icon": "icon/minecraft_birch_boat.png",
+        "recipe": "birch_boat.json"
+    },
+    "birch_button": {
+        "icon": "icon/minecraft_birch_button.png",
+        "recipe": "birch_button.json"
+    },
+    "birch_chest_boat": {
+        "icon": "icon/minecraft_birch_chest_boat.png",
+        "recipe": "birch_chest_boat.json"
+    },
+    "birch_door": {
+        "icon": "icon/minecraft_birch_door.png",
+        "recipe": "birch_door.json"
+    },
+    "birch_fence": {
+        "icon": "icon/minecraft_birch_fence.png",
+        "recipe": "birch_fence.json"
+    },
+    "birch_fence_gate": {
+        "icon": "icon/minecraft_birch_fence_gate.png",
+        "recipe": "birch_fence_gate.json"
+    },
+    "birch_hanging_sign": {
+        "icon": "icon/minecraft_birch_hanging_sign.png",
+        "recipe": "birch_hanging_sign.json"
+    },
+    "birch_planks": {
+        "icon": "icon/minecraft_birch_planks.png",
+        "recipe": "birch_planks.json"
+    },
+    "birch_pressure_plate": {
+        "icon": "icon/minecraft_birch_pressure_plate.png",
+        "recipe": "birch_pressure_plate.json"
+    },
+    "birch_sign": {
+        "icon": "icon/minecraft_birch_sign.png",
+        "recipe": "birch_sign.json"
+    },
+    "birch_slab": {
+        "icon": "icon/minecraft_birch_slab.png",
+        "recipe": "birch_slab.json"
+    },
+    "birch_stairs": {
+        "icon": "icon/minecraft_birch_stairs.png",
+        "recipe": "birch_stairs.json"
+    },
+    "birch_trapdoor": {
+        "icon": "icon/minecraft_birch_trapdoor.png",
+        "recipe": "birch_trapdoor.json"
+    },
+    "birch_wood": {
+        "icon": "icon/minecraft_birch_wood.png",
+        "recipe": "birch_wood.json"
+    },
+    "blackstone_slab": {
+        "icon": "icon/minecraft_blackstone_slab.png",
+        "recipe": "blackstone_slab.json"
+    },
+    "blackstone_stairs": {
+        "icon": "icon/minecraft_blackstone_stairs.png",
+        "recipe": "blackstone_stairs.json"
+    },
+    "blackstone_wall": {
+        "icon": "icon/minecraft_blackstone_wall.png",
+        "recipe": "blackstone_wall.json"
+    },
+    "black_banner": {
+        "icon": "icon/minecraft_black_banner.png",
+        "recipe": "black_banner.json"
+    },
+    "black_bed": {
+        "icon": "icon/minecraft_black_bed.png",
+        "recipe": "black_bed.json"
+    },
+    "black_candle": {
+        "icon": "icon/minecraft_black_candle.png",
+        "recipe": "black_candle.json"
+    },
+    "black_carpet": {
+        "icon": "icon/minecraft_black_carpet.png",
+        "recipe": "black_carpet.json"
+    },
+    "black_concrete_powder": {
+        "icon": "icon/minecraft_black_concrete_powder.png",
+        "recipe": "black_concrete_powder.json"
+    },
+    "black_dye": {
+        "icon": "icon/minecraft_black_dye.png",
+        "recipe": [
+            "black_dye.json",
+            "black_dye_from_wither_rose.json"
+        ]
+    },
+    "black_stained_glass": {
+        "icon": "icon/minecraft_black_stained_glass.png",
+        "recipe": "black_stained_glass.json"
+    },
+    "black_stained_glass_pane": {
+        "icon": "icon/minecraft_black_stained_glass_pane.png",
+        "recipe": [
+            "black_stained_glass_pane.json",
+            "black_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "black_terracotta": {
+        "icon": "icon/minecraft_black_terracotta.png",
+        "recipe": "black_terracotta.json"
+    },
+    "blast_furnace": {
+        "icon": "icon/minecraft_blast_furnace.png",
+        "recipe": "blast_furnace.json"
+    },
+    "blaze_powder": {
+        "icon": "icon/minecraft_blaze_powder.png",
+        "recipe": "blaze_powder.json"
+    },
+    "blue_banner": {
+        "icon": "icon/minecraft_blue_banner.png",
+        "recipe": "blue_banner.json"
+    },
+    "blue_bed": {
+        "icon": "icon/minecraft_blue_bed.png",
+        "recipe": "blue_bed.json"
+    },
+    "blue_candle": {
+        "icon": "icon/minecraft_blue_candle.png",
+        "recipe": "blue_candle.json"
+    },
+    "blue_carpet": {
+        "icon": "icon/minecraft_blue_carpet.png",
+        "recipe": "blue_carpet.json"
+    },
+    "blue_concrete_powder": {
+        "icon": "icon/minecraft_blue_concrete_powder.png",
+        "recipe": "blue_concrete_powder.json"
+    },
+    "blue_dye": {
+        "icon": "icon/minecraft_blue_dye.png",
+        "recipe": [
+            "blue_dye.json",
+            "blue_dye_from_cornflower.json"
+        ]
+    },
+    "blue_ice": {
+        "icon": "icon/minecraft_blue_ice.png",
+        "recipe": "blue_ice.json"
+    },
+    "blue_stained_glass": {
+        "icon": "icon/minecraft_blue_stained_glass.png",
+        "recipe": "blue_stained_glass.json"
+    },
+    "blue_stained_glass_pane": {
+        "icon": "icon/minecraft_blue_stained_glass_pane.png",
+        "recipe": [
+            "blue_stained_glass_pane.json",
+            "blue_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "blue_terracotta": {
+        "icon": "icon/minecraft_blue_terracotta.png",
+        "recipe": "blue_terracotta.json"
+    },
+    "bolt_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_bolt_armor_trim_smithing_template.png",
+        "recipe": "bolt_armor_trim_smithing_template.json"
+    },
+    "bone_block": {
+        "icon": "icon/minecraft_bone_block.png",
+        "recipe": "bone_block.json"
+    },
+    "bone_meal": {
+        "icon": "icon/minecraft_bone_meal.png",
+        "recipe": [
+            "bone_meal.json",
+            "bone_meal_from_bone_block.json"
+        ]
+    },
+    "book": {
+        "icon": "icon/minecraft_book.png",
+        "recipe": "book.json"
+    },
+    "bookshelf": {
+        "icon": "icon/minecraft_bookshelf.png",
+        "recipe": "bookshelf.json"
+    },
+    "bordure_indented_banner_pattern": {
+        "icon": null,
+        "recipe": "bordure_indented_banner_pattern.json"
+    },
+    "bow": {
+        "icon": "icon/minecraft_bow.png",
+        "recipe": "bow.json"
+    },
+    "bowl": {
+        "icon": "icon/minecraft_bowl.png",
+        "recipe": "bowl.json"
+    },
+    "bread": {
+        "icon": "icon/minecraft_bread.png",
+        "recipe": "bread.json"
+    },
+    "brewing_stand": {
+        "icon": "icon/minecraft_brewing_stand.png",
+        "recipe": "brewing_stand.json"
+    },
+    "bricks": {
+        "icon": "icon/minecraft_bricks.png",
+        "recipe": "bricks.json"
+    },
+    "brick_slab": {
+        "icon": "icon/minecraft_brick_slab.png",
+        "recipe": "brick_slab.json"
+    },
+    "brick_stairs": {
+        "icon": "icon/minecraft_brick_stairs.png",
+        "recipe": "brick_stairs.json"
+    },
+    "brick_wall": {
+        "icon": "icon/minecraft_brick_wall.png",
+        "recipe": "brick_wall.json"
+    },
+    "brown_banner": {
+        "icon": "icon/minecraft_brown_banner.png",
+        "recipe": "brown_banner.json"
+    },
+    "brown_bed": {
+        "icon": "icon/minecraft_brown_bed.png",
+        "recipe": "brown_bed.json"
+    },
+    "brown_candle": {
+        "icon": "icon/minecraft_brown_candle.png",
+        "recipe": "brown_candle.json"
+    },
+    "brown_carpet": {
+        "icon": "icon/minecraft_brown_carpet.png",
+        "recipe": "brown_carpet.json"
+    },
+    "brown_concrete_powder": {
+        "icon": "icon/minecraft_brown_concrete_powder.png",
+        "recipe": "brown_concrete_powder.json"
+    },
+    "brown_dye": {
+        "icon": "icon/minecraft_brown_dye.png",
+        "recipe": "brown_dye.json"
+    },
+    "brown_stained_glass": {
+        "icon": "icon/minecraft_brown_stained_glass.png",
+        "recipe": "brown_stained_glass.json"
+    },
+    "brown_stained_glass_pane": {
+        "icon": "icon/minecraft_brown_stained_glass_pane.png",
+        "recipe": [
+            "brown_stained_glass_pane.json",
+            "brown_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "brown_terracotta": {
+        "icon": "icon/minecraft_brown_terracotta.png",
+        "recipe": "brown_terracotta.json"
+    },
+    "brush": {
+        "icon": "icon/minecraft_brush.png",
+        "recipe": "brush.json"
+    },
+    "bucket": {
+        "icon": "icon/minecraft_bucket.png",
+        "recipe": "bucket.json"
+    },
+    "bundle": {
+        "icon": "icon/minecraft_bundle.png",
+        "recipe": "bundle.json"
+    },
+    "cake": {
+        "icon": "icon/minecraft_cake.png",
+        "recipe": "cake.json"
+    },
+    "calibrated_sculk_sensor": {
+        "icon": "icon/minecraft_calibrated_sculk_sensor.png",
+        "recipe": "calibrated_sculk_sensor.json"
+    },
+    "campfire": {
+        "icon": "icon/minecraft_campfire.png",
+        "recipe": "campfire.json"
+    },
+    "candle": {
+        "icon": "icon/minecraft_candle.png",
+        "recipe": "candle.json"
+    },
+    "carrot_on_a_stick": {
+        "icon": "icon/minecraft_carrot_on_a_stick.png",
+        "recipe": "carrot_on_a_stick.json"
+    },
+    "cartography_table": {
+        "icon": "icon/minecraft_cartography_table.png",
+        "recipe": "cartography_table.json"
+    },
+    "cauldron": {
+        "icon": "icon/minecraft_cauldron.png",
+        "recipe": "cauldron.json"
+    },
+    "chain": {
+        "icon": "icon/minecraft_chain.png",
+        "recipe": "chain.json"
+    },
+    "cherry_boat": {
+        "icon": "icon/minecraft_cherry_boat.png",
+        "recipe": "cherry_boat.json"
+    },
+    "cherry_button": {
+        "icon": "icon/minecraft_cherry_button.png",
+        "recipe": "cherry_button.json"
+    },
+    "cherry_chest_boat": {
+        "icon": "icon/minecraft_cherry_chest_boat.png",
+        "recipe": "cherry_chest_boat.json"
+    },
+    "cherry_door": {
+        "icon": "icon/minecraft_cherry_door.png",
+        "recipe": "cherry_door.json"
+    },
+    "cherry_fence": {
+        "icon": "icon/minecraft_cherry_fence.png",
+        "recipe": "cherry_fence.json"
+    },
+    "cherry_fence_gate": {
+        "icon": "icon/minecraft_cherry_fence_gate.png",
+        "recipe": "cherry_fence_gate.json"
+    },
+    "cherry_hanging_sign": {
+        "icon": "icon/minecraft_cherry_hanging_sign.png",
+        "recipe": "cherry_hanging_sign.json"
+    },
+    "cherry_planks": {
+        "icon": "icon/minecraft_cherry_planks.png",
+        "recipe": "cherry_planks.json"
+    },
+    "cherry_pressure_plate": {
+        "icon": "icon/minecraft_cherry_pressure_plate.png",
+        "recipe": "cherry_pressure_plate.json"
+    },
+    "cherry_sign": {
+        "icon": "icon/minecraft_cherry_sign.png",
+        "recipe": "cherry_sign.json"
+    },
+    "cherry_slab": {
+        "icon": "icon/minecraft_cherry_slab.png",
+        "recipe": "cherry_slab.json"
+    },
+    "cherry_stairs": {
+        "icon": "icon/minecraft_cherry_stairs.png",
+        "recipe": "cherry_stairs.json"
+    },
+    "cherry_trapdoor": {
+        "icon": "icon/minecraft_cherry_trapdoor.png",
+        "recipe": "cherry_trapdoor.json"
+    },
+    "cherry_wood": {
+        "icon": "icon/minecraft_cherry_wood.png",
+        "recipe": "cherry_wood.json"
+    },
+    "chest": {
+        "icon": "icon/minecraft_chest.png",
+        "recipe": "chest.json"
+    },
+    "chest_minecart": {
+        "icon": "icon/minecraft_chest_minecart.png",
+        "recipe": "chest_minecart.json"
+    },
+    "chiseled_bookshelf": {
+        "icon": "icon/minecraft_chiseled_bookshelf.png",
+        "recipe": "chiseled_bookshelf.json"
+    },
+    "chiseled_copper": {
+        "icon": "icon/minecraft_chiseled_copper.png",
+        "recipe": "chiseled_copper.json"
+    },
+    "chiseled_deepslate": {
+        "icon": "icon/minecraft_chiseled_deepslate.png",
+        "recipe": "chiseled_deepslate.json"
+    },
+    "chiseled_nether_bricks": {
+        "icon": "icon/minecraft_chiseled_nether_bricks.png",
+        "recipe": "chiseled_nether_bricks.json"
+    },
+    "chiseled_polished_blackstone": {
+        "icon": "icon/minecraft_chiseled_polished_blackstone.png",
+        "recipe": "chiseled_polished_blackstone.json"
+    },
+    "chiseled_quartz_block": {
+        "icon": "icon/minecraft_chiseled_quartz_block.png",
+        "recipe": "chiseled_quartz_block.json"
+    },
+    "chiseled_red_sandstone": {
+        "icon": "icon/minecraft_chiseled_red_sandstone.png",
+        "recipe": "chiseled_red_sandstone.json"
+    },
+    "chiseled_sandstone": {
+        "icon": "icon/minecraft_chiseled_sandstone.png",
+        "recipe": "chiseled_sandstone.json"
+    },
+    "chiseled_stone_bricks": {
+        "icon": "icon/minecraft_chiseled_stone_bricks.png",
+        "recipe": "chiseled_stone_bricks.json"
+    },
+    "chiseled_tuff": {
+        "icon": "icon/minecraft_chiseled_tuff.png",
+        "recipe": "chiseled_tuff.json"
+    },
+    "chiseled_tuff_bricks": {
+        "icon": "icon/minecraft_chiseled_tuff_bricks.png",
+        "recipe": "chiseled_tuff_bricks.json"
+    },
+    "clay": {
+        "icon": "icon/minecraft_clay.png",
+        "recipe": "clay.json"
+    },
+    "clock": {
+        "icon": "icon/minecraft_clock.png",
+        "recipe": "clock.json"
+    },
+    "coal": {
+        "icon": "icon/minecraft_coal.png",
+        "recipe": "coal.json"
+    },
+    "coal_block": {
+        "icon": "icon/minecraft_coal_block.png",
+        "recipe": "coal_block.json"
+    },
+    "coarse_dirt": {
+        "icon": "icon/minecraft_coarse_dirt.png",
+        "recipe": "coarse_dirt.json"
+    },
+    "coast_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_coast_armor_trim_smithing_template.png",
+        "recipe": "coast_armor_trim_smithing_template.json"
+    },
+    "cobbled_deepslate_slab": {
+        "icon": "icon/minecraft_cobbled_deepslate_slab.png",
+        "recipe": "cobbled_deepslate_slab.json"
+    },
+    "cobbled_deepslate_stairs": {
+        "icon": "icon/minecraft_cobbled_deepslate_stairs.png",
+        "recipe": "cobbled_deepslate_stairs.json"
+    },
+    "cobbled_deepslate_wall": {
+        "icon": "icon/minecraft_cobbled_deepslate_wall.png",
+        "recipe": "cobbled_deepslate_wall.json"
+    },
+    "cobblestone_slab": {
+        "icon": "icon/minecraft_cobblestone_slab.png",
+        "recipe": "cobblestone_slab.json"
+    },
+    "cobblestone_stairs": {
+        "icon": "icon/minecraft_cobblestone_stairs.png",
+        "recipe": "cobblestone_stairs.json"
+    },
+    "cobblestone_wall": {
+        "icon": "icon/minecraft_cobblestone_wall.png",
+        "recipe": "cobblestone_wall.json"
+    },
+    "comparator": {
+        "icon": "icon/minecraft_comparator.png",
+        "recipe": "comparator.json"
+    },
+    "compass": {
+        "icon": "icon/minecraft_compass.png",
+        "recipe": "compass.json"
+    },
+    "composter": {
+        "icon": "icon/minecraft_composter.png",
+        "recipe": "composter.json"
+    },
+    "conduit": {
+        "icon": "icon/minecraft_conduit.png",
+        "recipe": "conduit.json"
+    },
+    "cookie": {
+        "icon": "icon/minecraft_cookie.png",
+        "recipe": "cookie.json"
+    },
+    "copper_block": {
+        "icon": "icon/minecraft_copper_block.png",
+        "recipe": "copper_block.json"
+    },
+    "copper_bulb": {
+        "icon": "icon/minecraft_copper_bulb.png",
+        "recipe": "copper_bulb.json"
+    },
+    "copper_door": {
+        "icon": "icon/minecraft_copper_door.png",
+        "recipe": "copper_door.json"
+    },
+    "copper_grate": {
+        "icon": "icon/minecraft_copper_grate.png",
+        "recipe": "copper_grate.json"
+    },
+    "copper_ingot": {
+        "icon": "icon/minecraft_copper_ingot.png",
+        "recipe": [
+            "copper_ingot.json",
+            "copper_ingot_from_waxed_copper_block.json"
+        ]
+    },
+    "copper_trapdoor": {
+        "icon": "icon/minecraft_copper_trapdoor.png",
+        "recipe": "copper_trapdoor.json"
+    },
+    "crafter": {
+        "icon": "icon/minecraft_crafter.png",
+        "recipe": "crafter.json"
+    },
+    "crafting_table": {
+        "icon": "icon/minecraft_crafting_table.png",
+        "recipe": "crafting_table.json"
+    },
+    "creeper_banner_pattern": {
+        "icon": "icon/minecraft_creeper_banner_pattern.png",
+        "recipe": "creeper_banner_pattern.json"
+    },
+    "crimson_button": {
+        "icon": "icon/minecraft_crimson_button.png",
+        "recipe": "crimson_button.json"
+    },
+    "crimson_door": {
+        "icon": "icon/minecraft_crimson_door.png",
+        "recipe": "crimson_door.json"
+    },
+    "crimson_fence": {
+        "icon": "icon/minecraft_crimson_fence.png",
+        "recipe": "crimson_fence.json"
+    },
+    "crimson_fence_gate": {
+        "icon": "icon/minecraft_crimson_fence_gate.png",
+        "recipe": "crimson_fence_gate.json"
+    },
+    "crimson_hanging_sign": {
+        "icon": "icon/minecraft_crimson_hanging_sign.png",
+        "recipe": "crimson_hanging_sign.json"
+    },
+    "crimson_hyphae": {
+        "icon": "icon/minecraft_crimson_hyphae.png",
+        "recipe": "crimson_hyphae.json"
+    },
+    "crimson_planks": {
+        "icon": "icon/minecraft_crimson_planks.png",
+        "recipe": "crimson_planks.json"
+    },
+    "crimson_pressure_plate": {
+        "icon": "icon/minecraft_crimson_pressure_plate.png",
+        "recipe": "crimson_pressure_plate.json"
+    },
+    "crimson_sign": {
+        "icon": "icon/minecraft_crimson_sign.png",
+        "recipe": "crimson_sign.json"
+    },
+    "crimson_slab": {
+        "icon": "icon/minecraft_crimson_slab.png",
+        "recipe": "crimson_slab.json"
+    },
+    "crimson_stairs": {
+        "icon": "icon/minecraft_crimson_stairs.png",
+        "recipe": "crimson_stairs.json"
+    },
+    "crimson_trapdoor": {
+        "icon": "icon/minecraft_crimson_trapdoor.png",
+        "recipe": "crimson_trapdoor.json"
+    },
+    "crossbow": {
+        "icon": "icon/minecraft_crossbow.png",
+        "recipe": "crossbow.json"
+    },
+    "cut_copper": {
+        "icon": "icon/minecraft_cut_copper.png",
+        "recipe": "cut_copper.json"
+    },
+    "cut_copper_slab": {
+        "icon": "icon/minecraft_cut_copper_slab.png",
+        "recipe": "cut_copper_slab.json"
+    },
+    "cut_copper_stairs": {
+        "icon": "icon/minecraft_cut_copper_stairs.png",
+        "recipe": "cut_copper_stairs.json"
+    },
+    "cut_red_sandstone": {
+        "icon": "icon/minecraft_cut_red_sandstone.png",
+        "recipe": "cut_red_sandstone.json"
+    },
+    "cut_red_sandstone_slab": {
+        "icon": "icon/minecraft_cut_red_sandstone_slab.png",
+        "recipe": "cut_red_sandstone_slab.json"
+    },
+    "cut_sandstone": {
+        "icon": "icon/minecraft_cut_sandstone.png",
+        "recipe": "cut_sandstone.json"
+    },
+    "cut_sandstone_slab": {
+        "icon": "icon/minecraft_cut_sandstone_slab.png",
+        "recipe": "cut_sandstone_slab.json"
+    },
+    "cyan_banner": {
+        "icon": "icon/minecraft_cyan_banner.png",
+        "recipe": "cyan_banner.json"
+    },
+    "cyan_bed": {
+        "icon": "icon/minecraft_cyan_bed.png",
+        "recipe": "cyan_bed.json"
+    },
+    "cyan_candle": {
+        "icon": "icon/minecraft_cyan_candle.png",
+        "recipe": "cyan_candle.json"
+    },
+    "cyan_carpet": {
+        "icon": "icon/minecraft_cyan_carpet.png",
+        "recipe": "cyan_carpet.json"
+    },
+    "cyan_concrete_powder": {
+        "icon": "icon/minecraft_cyan_concrete_powder.png",
+        "recipe": "cyan_concrete_powder.json"
+    },
+    "cyan_dye": {
+        "icon": "icon/minecraft_cyan_dye.png",
+        "recipe": [
+            "cyan_dye.json",
+            "cyan_dye_from_pitcher_plant.json"
+        ]
+    },
+    "cyan_stained_glass": {
+        "icon": "icon/minecraft_cyan_stained_glass.png",
+        "recipe": "cyan_stained_glass.json"
+    },
+    "cyan_stained_glass_pane": {
+        "icon": "icon/minecraft_cyan_stained_glass_pane.png",
+        "recipe": [
+            "cyan_stained_glass_pane.json",
+            "cyan_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "cyan_terracotta": {
+        "icon": "icon/minecraft_cyan_terracotta.png",
+        "recipe": "cyan_terracotta.json"
+    },
+    "dark_oak_boat": {
+        "icon": "icon/minecraft_dark_oak_boat.png",
+        "recipe": "dark_oak_boat.json"
+    },
+    "dark_oak_button": {
+        "icon": "icon/minecraft_dark_oak_button.png",
+        "recipe": "dark_oak_button.json"
+    },
+    "dark_oak_chest_boat": {
+        "icon": "icon/minecraft_dark_oak_chest_boat.png",
+        "recipe": "dark_oak_chest_boat.json"
+    },
+    "dark_oak_door": {
+        "icon": "icon/minecraft_dark_oak_door.png",
+        "recipe": "dark_oak_door.json"
+    },
+    "dark_oak_fence": {
+        "icon": "icon/minecraft_dark_oak_fence.png",
+        "recipe": "dark_oak_fence.json"
+    },
+    "dark_oak_fence_gate": {
+        "icon": "icon/minecraft_dark_oak_fence_gate.png",
+        "recipe": "dark_oak_fence_gate.json"
+    },
+    "dark_oak_hanging_sign": {
+        "icon": "icon/minecraft_dark_oak_hanging_sign.png",
+        "recipe": "dark_oak_hanging_sign.json"
+    },
+    "dark_oak_planks": {
+        "icon": "icon/minecraft_dark_oak_planks.png",
+        "recipe": "dark_oak_planks.json"
+    },
+    "dark_oak_pressure_plate": {
+        "icon": "icon/minecraft_dark_oak_pressure_plate.png",
+        "recipe": "dark_oak_pressure_plate.json"
+    },
+    "dark_oak_sign": {
+        "icon": "icon/minecraft_dark_oak_sign.png",
+        "recipe": "dark_oak_sign.json"
+    },
+    "dark_oak_slab": {
+        "icon": "icon/minecraft_dark_oak_slab.png",
+        "recipe": "dark_oak_slab.json"
+    },
+    "dark_oak_stairs": {
+        "icon": "icon/minecraft_dark_oak_stairs.png",
+        "recipe": "dark_oak_stairs.json"
+    },
+    "dark_oak_trapdoor": {
+        "icon": "icon/minecraft_dark_oak_trapdoor.png",
+        "recipe": "dark_oak_trapdoor.json"
+    },
+    "dark_oak_wood": {
+        "icon": "icon/minecraft_dark_oak_wood.png",
+        "recipe": "dark_oak_wood.json"
+    },
+    "dark_prismarine": {
+        "icon": "icon/minecraft_dark_prismarine.png",
+        "recipe": "dark_prismarine.json"
+    },
+    "dark_prismarine_slab": {
+        "icon": "icon/minecraft_dark_prismarine_slab.png",
+        "recipe": "dark_prismarine_slab.json"
+    },
+    "dark_prismarine_stairs": {
+        "icon": "icon/minecraft_dark_prismarine_stairs.png",
+        "recipe": "dark_prismarine_stairs.json"
+    },
+    "daylight_detector": {
+        "icon": "icon/minecraft_daylight_detector.png",
+        "recipe": "daylight_detector.json"
+    },
+    "decorated_pot_simple": {
+        "icon": null,
+        "recipe": "decorated_pot_simple.json"
+    },
+    "deepslate_bricks": {
+        "icon": "icon/minecraft_deepslate_bricks.png",
+        "recipe": "deepslate_bricks.json"
+    },
+    "deepslate_brick_slab": {
+        "icon": "icon/minecraft_deepslate_brick_slab.png",
+        "recipe": "deepslate_brick_slab.json"
+    },
+    "deepslate_brick_stairs": {
+        "icon": "icon/minecraft_deepslate_brick_stairs.png",
+        "recipe": "deepslate_brick_stairs.json"
+    },
+    "deepslate_brick_wall": {
+        "icon": "icon/minecraft_deepslate_brick_wall.png",
+        "recipe": "deepslate_brick_wall.json"
+    },
+    "deepslate_tiles": {
+        "icon": "icon/minecraft_deepslate_tiles.png",
+        "recipe": "deepslate_tiles.json"
+    },
+    "deepslate_tile_slab": {
+        "icon": "icon/minecraft_deepslate_tile_slab.png",
+        "recipe": "deepslate_tile_slab.json"
+    },
+    "deepslate_tile_stairs": {
+        "icon": "icon/minecraft_deepslate_tile_stairs.png",
+        "recipe": "deepslate_tile_stairs.json"
+    },
+    "deepslate_tile_wall": {
+        "icon": "icon/minecraft_deepslate_tile_wall.png",
+        "recipe": "deepslate_tile_wall.json"
+    },
+    "detector_rail": {
+        "icon": "icon/minecraft_detector_rail.png",
+        "recipe": "detector_rail.json"
+    },
+    "diamond": {
+        "icon": "icon/minecraft_diamond.png",
+        "recipe": "diamond.json"
+    },
+    "diamond_axe": {
+        "icon": "icon/minecraft_diamond_axe.png",
+        "recipe": "diamond_axe.json"
+    },
+    "diamond_block": {
+        "icon": "icon/minecraft_diamond_block.png",
+        "recipe": "diamond_block.json"
+    },
+    "diamond_boots": {
+        "icon": "icon/minecraft_diamond_boots.png",
+        "recipe": "diamond_boots.json"
+    },
+    "diamond_chestplate": {
+        "icon": "icon/minecraft_diamond_chestplate.png",
+        "recipe": "diamond_chestplate.json"
+    },
+    "diamond_helmet": {
+        "icon": "icon/minecraft_diamond_helmet.png",
+        "recipe": "diamond_helmet.json"
+    },
+    "diamond_hoe": {
+        "icon": "icon/minecraft_diamond_hoe.png",
+        "recipe": "diamond_hoe.json"
+    },
+    "diamond_leggings": {
+        "icon": "icon/minecraft_diamond_leggings.png",
+        "recipe": "diamond_leggings.json"
+    },
+    "diamond_pickaxe": {
+        "icon": "icon/minecraft_diamond_pickaxe.png",
+        "recipe": "diamond_pickaxe.json"
+    },
+    "diamond_shovel": {
+        "icon": "icon/minecraft_diamond_shovel.png",
+        "recipe": "diamond_shovel.json"
+    },
+    "diamond_sword": {
+        "icon": "icon/minecraft_diamond_sword.png",
+        "recipe": "diamond_sword.json"
+    },
+    "diorite": {
+        "icon": "icon/minecraft_diorite.png",
+        "recipe": "diorite.json"
+    },
+    "diorite_slab": {
+        "icon": "icon/minecraft_diorite_slab.png",
+        "recipe": "diorite_slab.json"
+    },
+    "diorite_stairs": {
+        "icon": "icon/minecraft_diorite_stairs.png",
+        "recipe": "diorite_stairs.json"
+    },
+    "diorite_wall": {
+        "icon": "icon/minecraft_diorite_wall.png",
+        "recipe": "diorite_wall.json"
+    },
+    "dispenser": {
+        "icon": "icon/minecraft_dispenser.png",
+        "recipe": "dispenser.json"
+    },
+    "dried_kelp": {
+        "icon": "icon/minecraft_dried_kelp.png",
+        "recipe": "dried_kelp.json"
+    },
+    "dried_kelp_block": {
+        "icon": "icon/minecraft_dried_kelp_block.png",
+        "recipe": "dried_kelp_block.json"
+    },
+    "dripstone_block": {
+        "icon": "icon/minecraft_dripstone_block.png",
+        "recipe": "dripstone_block.json"
+    },
+    "dropper": {
+        "icon": "icon/minecraft_dropper.png",
+        "recipe": "dropper.json"
+    },
+    "dune_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_dune_armor_trim_smithing_template.png",
+        "recipe": "dune_armor_trim_smithing_template.json"
+    },
+    "dye_black_bed": {
+        "icon": null,
+        "recipe": "dye_black_bed.json"
+    },
+    "dye_black_carpet": {
+        "icon": null,
+        "recipe": "dye_black_carpet.json"
+    },
+    "dye_black_wool": {
+        "icon": null,
+        "recipe": "dye_black_wool.json"
+    },
+    "dye_blue_bed": {
+        "icon": null,
+        "recipe": "dye_blue_bed.json"
+    },
+    "dye_blue_carpet": {
+        "icon": null,
+        "recipe": "dye_blue_carpet.json"
+    },
+    "dye_blue_wool": {
+        "icon": null,
+        "recipe": "dye_blue_wool.json"
+    },
+    "dye_brown_bed": {
+        "icon": null,
+        "recipe": "dye_brown_bed.json"
+    },
+    "dye_brown_carpet": {
+        "icon": null,
+        "recipe": "dye_brown_carpet.json"
+    },
+    "dye_brown_wool": {
+        "icon": null,
+        "recipe": "dye_brown_wool.json"
+    },
+    "dye_cyan_bed": {
+        "icon": null,
+        "recipe": "dye_cyan_bed.json"
+    },
+    "dye_cyan_carpet": {
+        "icon": null,
+        "recipe": "dye_cyan_carpet.json"
+    },
+    "dye_cyan_wool": {
+        "icon": null,
+        "recipe": "dye_cyan_wool.json"
+    },
+    "dye_gray_bed": {
+        "icon": null,
+        "recipe": "dye_gray_bed.json"
+    },
+    "dye_gray_carpet": {
+        "icon": null,
+        "recipe": "dye_gray_carpet.json"
+    },
+    "dye_gray_wool": {
+        "icon": null,
+        "recipe": "dye_gray_wool.json"
+    },
+    "dye_green_bed": {
+        "icon": null,
+        "recipe": "dye_green_bed.json"
+    },
+    "dye_green_carpet": {
+        "icon": null,
+        "recipe": "dye_green_carpet.json"
+    },
+    "dye_green_wool": {
+        "icon": null,
+        "recipe": "dye_green_wool.json"
+    },
+    "dye_light_blue_bed": {
+        "icon": null,
+        "recipe": "dye_light_blue_bed.json"
+    },
+    "dye_light_blue_carpet": {
+        "icon": null,
+        "recipe": "dye_light_blue_carpet.json"
+    },
+    "dye_light_blue_wool": {
+        "icon": null,
+        "recipe": "dye_light_blue_wool.json"
+    },
+    "dye_light_gray_bed": {
+        "icon": null,
+        "recipe": "dye_light_gray_bed.json"
+    },
+    "dye_light_gray_carpet": {
+        "icon": null,
+        "recipe": "dye_light_gray_carpet.json"
+    },
+    "dye_light_gray_wool": {
+        "icon": null,
+        "recipe": "dye_light_gray_wool.json"
+    },
+    "dye_lime_bed": {
+        "icon": null,
+        "recipe": "dye_lime_bed.json"
+    },
+    "dye_lime_carpet": {
+        "icon": null,
+        "recipe": "dye_lime_carpet.json"
+    },
+    "dye_lime_wool": {
+        "icon": null,
+        "recipe": "dye_lime_wool.json"
+    },
+    "dye_magenta_bed": {
+        "icon": null,
+        "recipe": "dye_magenta_bed.json"
+    },
+    "dye_magenta_carpet": {
+        "icon": null,
+        "recipe": "dye_magenta_carpet.json"
+    },
+    "dye_magenta_wool": {
+        "icon": null,
+        "recipe": "dye_magenta_wool.json"
+    },
+    "dye_orange_bed": {
+        "icon": null,
+        "recipe": "dye_orange_bed.json"
+    },
+    "dye_orange_carpet": {
+        "icon": null,
+        "recipe": "dye_orange_carpet.json"
+    },
+    "dye_orange_wool": {
+        "icon": null,
+        "recipe": "dye_orange_wool.json"
+    },
+    "dye_pink_bed": {
+        "icon": null,
+        "recipe": "dye_pink_bed.json"
+    },
+    "dye_pink_carpet": {
+        "icon": null,
+        "recipe": "dye_pink_carpet.json"
+    },
+    "dye_pink_wool": {
+        "icon": null,
+        "recipe": "dye_pink_wool.json"
+    },
+    "dye_purple_bed": {
+        "icon": null,
+        "recipe": "dye_purple_bed.json"
+    },
+    "dye_purple_carpet": {
+        "icon": null,
+        "recipe": "dye_purple_carpet.json"
+    },
+    "dye_purple_wool": {
+        "icon": null,
+        "recipe": "dye_purple_wool.json"
+    },
+    "dye_red_bed": {
+        "icon": null,
+        "recipe": "dye_red_bed.json"
+    },
+    "dye_red_carpet": {
+        "icon": null,
+        "recipe": "dye_red_carpet.json"
+    },
+    "dye_red_wool": {
+        "icon": null,
+        "recipe": "dye_red_wool.json"
+    },
+    "dye_white_bed": {
+        "icon": null,
+        "recipe": "dye_white_bed.json"
+    },
+    "dye_white_carpet": {
+        "icon": null,
+        "recipe": "dye_white_carpet.json"
+    },
+    "dye_white_wool": {
+        "icon": null,
+        "recipe": "dye_white_wool.json"
+    },
+    "dye_yellow_bed": {
+        "icon": null,
+        "recipe": "dye_yellow_bed.json"
+    },
+    "dye_yellow_carpet": {
+        "icon": null,
+        "recipe": "dye_yellow_carpet.json"
+    },
+    "dye_yellow_wool": {
+        "icon": null,
+        "recipe": "dye_yellow_wool.json"
+    },
+    "emerald": {
+        "icon": "icon/minecraft_emerald.png",
+        "recipe": "emerald.json"
+    },
+    "emerald_block": {
+        "icon": "icon/minecraft_emerald_block.png",
+        "recipe": "emerald_block.json"
+    },
+    "enchanting_table": {
+        "icon": "icon/minecraft_enchanting_table.png",
+        "recipe": "enchanting_table.json"
+    },
+    "ender_chest": {
+        "icon": "icon/minecraft_ender_chest.png",
+        "recipe": "ender_chest.json"
+    },
+    "ender_eye": {
+        "icon": "icon/minecraft_ender_eye.png",
+        "recipe": "ender_eye.json"
+    },
+    "end_crystal": {
+        "icon": "icon/minecraft_end_crystal.png",
+        "recipe": "end_crystal.json"
+    },
+    "end_rod": {
+        "icon": "icon/minecraft_end_rod.png",
+        "recipe": "end_rod.json"
+    },
+    "end_stone_bricks": {
+        "icon": "icon/minecraft_end_stone_bricks.png",
+        "recipe": "end_stone_bricks.json"
+    },
+    "end_stone_brick_slab": {
+        "icon": "icon/minecraft_end_stone_brick_slab.png",
+        "recipe": "end_stone_brick_slab.json"
+    },
+    "end_stone_brick_stairs": {
+        "icon": "icon/minecraft_end_stone_brick_stairs.png",
+        "recipe": "end_stone_brick_stairs.json"
+    },
+    "end_stone_brick_wall": {
+        "icon": "icon/minecraft_end_stone_brick_wall.png",
+        "recipe": "end_stone_brick_wall.json"
+    },
+    "exposed_chiseled_copper": {
+        "icon": "icon/minecraft_exposed_chiseled_copper.png",
+        "recipe": "exposed_chiseled_copper.json"
+    },
+    "exposed_copper_bulb": {
+        "icon": "icon/minecraft_exposed_copper_bulb.png",
+        "recipe": "exposed_copper_bulb.json"
+    },
+    "exposed_copper_grate": {
+        "icon": "icon/minecraft_exposed_copper_grate.png",
+        "recipe": "exposed_copper_grate.json"
+    },
+    "exposed_cut_copper": {
+        "icon": "icon/minecraft_exposed_cut_copper.png",
+        "recipe": "exposed_cut_copper.json"
+    },
+    "exposed_cut_copper_slab": {
+        "icon": "icon/minecraft_exposed_cut_copper_slab.png",
+        "recipe": "exposed_cut_copper_slab.json"
+    },
+    "exposed_cut_copper_stairs": {
+        "icon": "icon/minecraft_exposed_cut_copper_stairs.png",
+        "recipe": "exposed_cut_copper_stairs.json"
+    },
+    "eye_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_eye_armor_trim_smithing_template.png",
+        "recipe": "eye_armor_trim_smithing_template.json"
+    },
+    "fermented_spider_eye": {
+        "icon": "icon/minecraft_fermented_spider_eye.png",
+        "recipe": "fermented_spider_eye.json"
+    },
+    "field_masoned_banner_pattern": {
+        "icon": null,
+        "recipe": "field_masoned_banner_pattern.json"
+    },
+    "firework_rocket_simple": {
+        "icon": null,
+        "recipe": "firework_rocket_simple.json"
+    },
+    "fire_charge": {
+        "icon": "icon/minecraft_fire_charge.png",
+        "recipe": "fire_charge.json"
+    },
+    "fishing_rod": {
+        "icon": "icon/minecraft_fishing_rod.png",
+        "recipe": "fishing_rod.json"
+    },
+    "fletching_table": {
+        "icon": "icon/minecraft_fletching_table.png",
+        "recipe": "fletching_table.json"
+    },
+    "flint_and_steel": {
+        "icon": "icon/minecraft_flint_and_steel.png",
+        "recipe": "flint_and_steel.json"
+    },
+    "flower_banner_pattern": {
+        "icon": "icon/minecraft_flower_banner_pattern.png",
+        "recipe": "flower_banner_pattern.json"
+    },
+    "flower_pot": {
+        "icon": "icon/minecraft_flower_pot.png",
+        "recipe": "flower_pot.json"
+    },
+    "flow_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_flow_armor_trim_smithing_template.png",
+        "recipe": "flow_armor_trim_smithing_template.json"
+    },
+    "furnace": {
+        "icon": "icon/minecraft_furnace.png",
+        "recipe": "furnace.json"
+    },
+    "furnace_minecart": {
+        "icon": "icon/minecraft_furnace_minecart.png",
+        "recipe": "furnace_minecart.json"
+    },
+    "glass_bottle": {
+        "icon": "icon/minecraft_glass_bottle.png",
+        "recipe": "glass_bottle.json"
+    },
+    "glass_pane": {
+        "icon": "icon/minecraft_glass_pane.png",
+        "recipe": "glass_pane.json"
+    },
+    "glistering_melon_slice": {
+        "icon": "icon/minecraft_glistering_melon_slice.png",
+        "recipe": "glistering_melon_slice.json"
+    },
+    "glowstone": {
+        "icon": "icon/minecraft_glowstone.png",
+        "recipe": "glowstone.json"
+    },
+    "glow_item_frame": {
+        "icon": "icon/minecraft_glow_item_frame.png",
+        "recipe": "glow_item_frame.json"
+    },
+    "golden_apple": {
+        "icon": "icon/minecraft_golden_apple.png",
+        "recipe": "golden_apple.json"
+    },
+    "golden_axe": {
+        "icon": "icon/minecraft_golden_axe.png",
+        "recipe": "golden_axe.json"
+    },
+    "golden_boots": {
+        "icon": "icon/minecraft_golden_boots.png",
+        "recipe": "golden_boots.json"
+    },
+    "golden_carrot": {
+        "icon": "icon/minecraft_golden_carrot.png",
+        "recipe": "golden_carrot.json"
+    },
+    "golden_chestplate": {
+        "icon": "icon/minecraft_golden_chestplate.png",
+        "recipe": "golden_chestplate.json"
+    },
+    "golden_helmet": {
+        "icon": "icon/minecraft_golden_helmet.png",
+        "recipe": "golden_helmet.json"
+    },
+    "golden_hoe": {
+        "icon": "icon/minecraft_golden_hoe.png",
+        "recipe": "golden_hoe.json"
+    },
+    "golden_leggings": {
+        "icon": "icon/minecraft_golden_leggings.png",
+        "recipe": "golden_leggings.json"
+    },
+    "golden_pickaxe": {
+        "icon": "icon/minecraft_golden_pickaxe.png",
+        "recipe": "golden_pickaxe.json"
+    },
+    "golden_shovel": {
+        "icon": "icon/minecraft_golden_shovel.png",
+        "recipe": "golden_shovel.json"
+    },
+    "golden_sword": {
+        "icon": "icon/minecraft_golden_sword.png",
+        "recipe": "golden_sword.json"
+    },
+    "gold_block": {
+        "icon": "icon/minecraft_gold_block.png",
+        "recipe": "gold_block.json"
+    },
+    "gold_ingot": {
+        "icon": "icon/minecraft_gold_ingot.png",
+        "recipe": [
+            "gold_ingot_from_gold_block.json",
+            "gold_ingot_from_nuggets.json"
+        ]
+    },
+    "gold_nugget": {
+        "icon": "icon/minecraft_gold_nugget.png",
+        "recipe": "gold_nugget.json"
+    },
+    "granite": {
+        "icon": "icon/minecraft_granite.png",
+        "recipe": "granite.json"
+    },
+    "granite_slab": {
+        "icon": "icon/minecraft_granite_slab.png",
+        "recipe": "granite_slab.json"
+    },
+    "granite_stairs": {
+        "icon": "icon/minecraft_granite_stairs.png",
+        "recipe": "granite_stairs.json"
+    },
+    "granite_wall": {
+        "icon": "icon/minecraft_granite_wall.png",
+        "recipe": "granite_wall.json"
+    },
+    "gray_banner": {
+        "icon": "icon/minecraft_gray_banner.png",
+        "recipe": "gray_banner.json"
+    },
+    "gray_bed": {
+        "icon": "icon/minecraft_gray_bed.png",
+        "recipe": "gray_bed.json"
+    },
+    "gray_candle": {
+        "icon": "icon/minecraft_gray_candle.png",
+        "recipe": "gray_candle.json"
+    },
+    "gray_carpet": {
+        "icon": "icon/minecraft_gray_carpet.png",
+        "recipe": "gray_carpet.json"
+    },
+    "gray_concrete_powder": {
+        "icon": "icon/minecraft_gray_concrete_powder.png",
+        "recipe": "gray_concrete_powder.json"
+    },
+    "gray_dye": {
+        "icon": "icon/minecraft_gray_dye.png",
+        "recipe": "gray_dye.json"
+    },
+    "gray_stained_glass": {
+        "icon": "icon/minecraft_gray_stained_glass.png",
+        "recipe": "gray_stained_glass.json"
+    },
+    "gray_stained_glass_pane": {
+        "icon": "icon/minecraft_gray_stained_glass_pane.png",
+        "recipe": [
+            "gray_stained_glass_pane.json",
+            "gray_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "gray_terracotta": {
+        "icon": "icon/minecraft_gray_terracotta.png",
+        "recipe": "gray_terracotta.json"
+    },
+    "green_banner": {
+        "icon": "icon/minecraft_green_banner.png",
+        "recipe": "green_banner.json"
+    },
+    "green_bed": {
+        "icon": "icon/minecraft_green_bed.png",
+        "recipe": "green_bed.json"
+    },
+    "green_candle": {
+        "icon": "icon/minecraft_green_candle.png",
+        "recipe": "green_candle.json"
+    },
+    "green_carpet": {
+        "icon": "icon/minecraft_green_carpet.png",
+        "recipe": "green_carpet.json"
+    },
+    "green_concrete_powder": {
+        "icon": "icon/minecraft_green_concrete_powder.png",
+        "recipe": "green_concrete_powder.json"
+    },
+    "green_stained_glass": {
+        "icon": "icon/minecraft_green_stained_glass.png",
+        "recipe": "green_stained_glass.json"
+    },
+    "green_stained_glass_pane": {
+        "icon": "icon/minecraft_green_stained_glass_pane.png",
+        "recipe": [
+            "green_stained_glass_pane.json",
+            "green_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "green_terracotta": {
+        "icon": "icon/minecraft_green_terracotta.png",
+        "recipe": "green_terracotta.json"
+    },
+    "grindstone": {
+        "icon": "icon/minecraft_grindstone.png",
+        "recipe": "grindstone.json"
+    },
+    "hay_block": {
+        "icon": "icon/minecraft_hay_block.png",
+        "recipe": "hay_block.json"
+    },
+    "heavy_weighted_pressure_plate": {
+        "icon": "icon/minecraft_heavy_weighted_pressure_plate.png",
+        "recipe": "heavy_weighted_pressure_plate.json"
+    },
+    "honeycomb_block": {
+        "icon": "icon/minecraft_honeycomb_block.png",
+        "recipe": "honeycomb_block.json"
+    },
+    "honey_block": {
+        "icon": "icon/minecraft_honey_block.png",
+        "recipe": "honey_block.json"
+    },
+    "honey_bottle": {
+        "icon": "icon/minecraft_honey_bottle.png",
+        "recipe": "honey_bottle.json"
+    },
+    "hopper": {
+        "icon": "icon/minecraft_hopper.png",
+        "recipe": "hopper.json"
+    },
+    "hopper_minecart": {
+        "icon": "icon/minecraft_hopper_minecart.png",
+        "recipe": "hopper_minecart.json"
+    },
+    "host_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_host_armor_trim_smithing_template.png",
+        "recipe": "host_armor_trim_smithing_template.json"
+    },
+    "iron_axe": {
+        "icon": "icon/minecraft_iron_axe.png",
+        "recipe": "iron_axe.json"
+    },
+    "iron_bars": {
+        "icon": "icon/minecraft_iron_bars.png",
+        "recipe": "iron_bars.json"
+    },
+    "iron_block": {
+        "icon": "icon/minecraft_iron_block.png",
+        "recipe": "iron_block.json"
+    },
+    "iron_boots": {
+        "icon": "icon/minecraft_iron_boots.png",
+        "recipe": "iron_boots.json"
+    },
+    "iron_chestplate": {
+        "icon": "icon/minecraft_iron_chestplate.png",
+        "recipe": "iron_chestplate.json"
+    },
+    "iron_door": {
+        "icon": "icon/minecraft_iron_door.png",
+        "recipe": "iron_door.json"
+    },
+    "iron_helmet": {
+        "icon": "icon/minecraft_iron_helmet.png",
+        "recipe": "iron_helmet.json"
+    },
+    "iron_hoe": {
+        "icon": "icon/minecraft_iron_hoe.png",
+        "recipe": "iron_hoe.json"
+    },
+    "iron_ingot": {
+        "icon": "icon/minecraft_iron_ingot.png",
+        "recipe": [
+            "iron_ingot_from_iron_block.json",
+            "iron_ingot_from_nuggets.json"
+        ]
+    },
+    "iron_leggings": {
+        "icon": "icon/minecraft_iron_leggings.png",
+        "recipe": "iron_leggings.json"
+    },
+    "iron_nugget": {
+        "icon": "icon/minecraft_iron_nugget.png",
+        "recipe": "iron_nugget.json"
+    },
+    "iron_pickaxe": {
+        "icon": "icon/minecraft_iron_pickaxe.png",
+        "recipe": "iron_pickaxe.json"
+    },
+    "iron_shovel": {
+        "icon": "icon/minecraft_iron_shovel.png",
+        "recipe": "iron_shovel.json"
+    },
+    "iron_sword": {
+        "icon": "icon/minecraft_iron_sword.png",
+        "recipe": "iron_sword.json"
+    },
+    "iron_trapdoor": {
+        "icon": "icon/minecraft_iron_trapdoor.png",
+        "recipe": "iron_trapdoor.json"
+    },
+    "item_frame": {
+        "icon": "icon/minecraft_item_frame.png",
+        "recipe": "item_frame.json"
+    },
+    "jack_o_lantern": {
+        "icon": "icon/minecraft_jack_o_lantern.png",
+        "recipe": "jack_o_lantern.json"
+    },
+    "jukebox": {
+        "icon": "icon/minecraft_jukebox.png",
+        "recipe": "jukebox.json"
+    },
+    "jungle_boat": {
+        "icon": "icon/minecraft_jungle_boat.png",
+        "recipe": "jungle_boat.json"
+    },
+    "jungle_button": {
+        "icon": "icon/minecraft_jungle_button.png",
+        "recipe": "jungle_button.json"
+    },
+    "jungle_chest_boat": {
+        "icon": "icon/minecraft_jungle_chest_boat.png",
+        "recipe": "jungle_chest_boat.json"
+    },
+    "jungle_door": {
+        "icon": "icon/minecraft_jungle_door.png",
+        "recipe": "jungle_door.json"
+    },
+    "jungle_fence": {
+        "icon": "icon/minecraft_jungle_fence.png",
+        "recipe": "jungle_fence.json"
+    },
+    "jungle_fence_gate": {
+        "icon": "icon/minecraft_jungle_fence_gate.png",
+        "recipe": "jungle_fence_gate.json"
+    },
+    "jungle_hanging_sign": {
+        "icon": "icon/minecraft_jungle_hanging_sign.png",
+        "recipe": "jungle_hanging_sign.json"
+    },
+    "jungle_planks": {
+        "icon": "icon/minecraft_jungle_planks.png",
+        "recipe": "jungle_planks.json"
+    },
+    "jungle_pressure_plate": {
+        "icon": "icon/minecraft_jungle_pressure_plate.png",
+        "recipe": "jungle_pressure_plate.json"
+    },
+    "jungle_sign": {
+        "icon": "icon/minecraft_jungle_sign.png",
+        "recipe": "jungle_sign.json"
+    },
+    "jungle_slab": {
+        "icon": "icon/minecraft_jungle_slab.png",
+        "recipe": "jungle_slab.json"
+    },
+    "jungle_stairs": {
+        "icon": "icon/minecraft_jungle_stairs.png",
+        "recipe": "jungle_stairs.json"
+    },
+    "jungle_trapdoor": {
+        "icon": "icon/minecraft_jungle_trapdoor.png",
+        "recipe": "jungle_trapdoor.json"
+    },
+    "jungle_wood": {
+        "icon": "icon/minecraft_jungle_wood.png",
+        "recipe": "jungle_wood.json"
+    },
+    "ladder": {
+        "icon": "icon/minecraft_ladder.png",
+        "recipe": "ladder.json"
+    },
+    "lantern": {
+        "icon": "icon/minecraft_lantern.png",
+        "recipe": "lantern.json"
+    },
+    "lapis_block": {
+        "icon": "icon/minecraft_lapis_block.png",
+        "recipe": "lapis_block.json"
+    },
+    "lapis_lazuli": {
+        "icon": "icon/minecraft_lapis_lazuli.png",
+        "recipe": "lapis_lazuli.json"
+    },
+    "lead": {
+        "icon": "icon/minecraft_lead.png",
+        "recipe": "lead.json"
+    },
+    "leather": {
+        "icon": "icon/minecraft_leather.png",
+        "recipe": "leather.json"
+    },
+    "leather_boots": {
+        "icon": "icon/minecraft_leather_boots.png",
+        "recipe": "leather_boots.json"
+    },
+    "leather_chestplate": {
+        "icon": "icon/minecraft_leather_chestplate.png",
+        "recipe": "leather_chestplate.json"
+    },
+    "leather_helmet": {
+        "icon": "icon/minecraft_leather_helmet.png",
+        "recipe": "leather_helmet.json"
+    },
+    "leather_horse_armor": {
+        "icon": "icon/minecraft_leather_horse_armor.png",
+        "recipe": "leather_horse_armor.json"
+    },
+    "leather_leggings": {
+        "icon": "icon/minecraft_leather_leggings.png",
+        "recipe": "leather_leggings.json"
+    },
+    "lectern": {
+        "icon": "icon/minecraft_lectern.png",
+        "recipe": "lectern.json"
+    },
+    "lever": {
+        "icon": "icon/minecraft_lever.png",
+        "recipe": "lever.json"
+    },
+    "lightning_rod": {
+        "icon": "icon/minecraft_lightning_rod.png",
+        "recipe": "lightning_rod.json"
+    },
+    "light_blue_banner": {
+        "icon": "icon/minecraft_light_blue_banner.png",
+        "recipe": "light_blue_banner.json"
+    },
+    "light_blue_bed": {
+        "icon": "icon/minecraft_light_blue_bed.png",
+        "recipe": "light_blue_bed.json"
+    },
+    "light_blue_candle": {
+        "icon": "icon/minecraft_light_blue_candle.png",
+        "recipe": "light_blue_candle.json"
+    },
+    "light_blue_carpet": {
+        "icon": "icon/minecraft_light_blue_carpet.png",
+        "recipe": "light_blue_carpet.json"
+    },
+    "light_blue_concrete_powder": {
+        "icon": "icon/minecraft_light_blue_concrete_powder.png",
+        "recipe": "light_blue_concrete_powder.json"
+    },
+    "light_blue_dye": {
+        "icon": "icon/minecraft_light_blue_dye.png",
+        "recipe": [
+            "light_blue_dye_from_blue_orchid.json",
+            "light_blue_dye_from_blue_white_dye.json"
+        ]
+    },
+    "light_blue_stained_glass": {
+        "icon": "icon/minecraft_light_blue_stained_glass.png",
+        "recipe": "light_blue_stained_glass.json"
+    },
+    "light_blue_stained_glass_pane": {
+        "icon": "icon/minecraft_light_blue_stained_glass_pane.png",
+        "recipe": [
+            "light_blue_stained_glass_pane.json",
+            "light_blue_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "light_blue_terracotta": {
+        "icon": "icon/minecraft_light_blue_terracotta.png",
+        "recipe": "light_blue_terracotta.json"
+    },
+    "light_gray_banner": {
+        "icon": "icon/minecraft_light_gray_banner.png",
+        "recipe": "light_gray_banner.json"
+    },
+    "light_gray_bed": {
+        "icon": "icon/minecraft_light_gray_bed.png",
+        "recipe": "light_gray_bed.json"
+    },
+    "light_gray_candle": {
+        "icon": "icon/minecraft_light_gray_candle.png",
+        "recipe": "light_gray_candle.json"
+    },
+    "light_gray_carpet": {
+        "icon": "icon/minecraft_light_gray_carpet.png",
+        "recipe": "light_gray_carpet.json"
+    },
+    "light_gray_concrete_powder": {
+        "icon": "icon/minecraft_light_gray_concrete_powder.png",
+        "recipe": "light_gray_concrete_powder.json"
+    },
+    "light_gray_dye": {
+        "icon": "icon/minecraft_light_gray_dye.png",
+        "recipe": [
+            "light_gray_dye_from_azure_bluet.json",
+            "light_gray_dye_from_black_white_dye.json",
+            "light_gray_dye_from_gray_white_dye.json",
+            "light_gray_dye_from_oxeye_daisy.json",
+            "light_gray_dye_from_white_tulip.json"
+        ]
+    },
+    "light_gray_stained_glass": {
+        "icon": "icon/minecraft_light_gray_stained_glass.png",
+        "recipe": "light_gray_stained_glass.json"
+    },
+    "light_gray_stained_glass_pane": {
+        "icon": "icon/minecraft_light_gray_stained_glass_pane.png",
+        "recipe": [
+            "light_gray_stained_glass_pane.json",
+            "light_gray_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "light_gray_terracotta": {
+        "icon": "icon/minecraft_light_gray_terracotta.png",
+        "recipe": "light_gray_terracotta.json"
+    },
+    "light_weighted_pressure_plate": {
+        "icon": "icon/minecraft_light_weighted_pressure_plate.png",
+        "recipe": "light_weighted_pressure_plate.json"
+    },
+    "lime_banner": {
+        "icon": "icon/minecraft_lime_banner.png",
+        "recipe": "lime_banner.json"
+    },
+    "lime_bed": {
+        "icon": "icon/minecraft_lime_bed.png",
+        "recipe": "lime_bed.json"
+    },
+    "lime_candle": {
+        "icon": "icon/minecraft_lime_candle.png",
+        "recipe": "lime_candle.json"
+    },
+    "lime_carpet": {
+        "icon": "icon/minecraft_lime_carpet.png",
+        "recipe": "lime_carpet.json"
+    },
+    "lime_concrete_powder": {
+        "icon": "icon/minecraft_lime_concrete_powder.png",
+        "recipe": "lime_concrete_powder.json"
+    },
+    "lime_dye": {
+        "icon": "icon/minecraft_lime_dye.png",
+        "recipe": "lime_dye.json"
+    },
+    "lime_stained_glass": {
+        "icon": "icon/minecraft_lime_stained_glass.png",
+        "recipe": "lime_stained_glass.json"
+    },
+    "lime_stained_glass_pane": {
+        "icon": "icon/minecraft_lime_stained_glass_pane.png",
+        "recipe": [
+            "lime_stained_glass_pane.json",
+            "lime_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "lime_terracotta": {
+        "icon": "icon/minecraft_lime_terracotta.png",
+        "recipe": "lime_terracotta.json"
+    },
+    "lodestone": {
+        "icon": "icon/minecraft_lodestone.png",
+        "recipe": "lodestone.json"
+    },
+    "loom": {
+        "icon": "icon/minecraft_loom.png",
+        "recipe": "loom.json"
+    },
+    "mace": {
+        "icon": "icon/minecraft_mace.png",
+        "recipe": "mace.json"
+    },
+    "magenta_banner": {
+        "icon": "icon/minecraft_magenta_banner.png",
+        "recipe": "magenta_banner.json"
+    },
+    "magenta_bed": {
+        "icon": "icon/minecraft_magenta_bed.png",
+        "recipe": "magenta_bed.json"
+    },
+    "magenta_candle": {
+        "icon": "icon/minecraft_magenta_candle.png",
+        "recipe": "magenta_candle.json"
+    },
+    "magenta_carpet": {
+        "icon": "icon/minecraft_magenta_carpet.png",
+        "recipe": "magenta_carpet.json"
+    },
+    "magenta_concrete_powder": {
+        "icon": "icon/minecraft_magenta_concrete_powder.png",
+        "recipe": "magenta_concrete_powder.json"
+    },
+    "magenta_dye": {
+        "icon": "icon/minecraft_magenta_dye.png",
+        "recipe": [
+            "magenta_dye_from_allium.json",
+            "magenta_dye_from_blue_red_pink.json",
+            "magenta_dye_from_blue_red_white_dye.json",
+            "magenta_dye_from_lilac.json",
+            "magenta_dye_from_purple_and_pink.json"
+        ]
+    },
+    "magenta_stained_glass": {
+        "icon": "icon/minecraft_magenta_stained_glass.png",
+        "recipe": "magenta_stained_glass.json"
+    },
+    "magenta_stained_glass_pane": {
+        "icon": "icon/minecraft_magenta_stained_glass_pane.png",
+        "recipe": [
+            "magenta_stained_glass_pane.json",
+            "magenta_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "magenta_terracotta": {
+        "icon": "icon/minecraft_magenta_terracotta.png",
+        "recipe": "magenta_terracotta.json"
+    },
+    "magma_block": {
+        "icon": "icon/minecraft_magma_block.png",
+        "recipe": "magma_block.json"
+    },
+    "magma_cream": {
+        "icon": "icon/minecraft_magma_cream.png",
+        "recipe": "magma_cream.json"
+    },
+    "mangrove_boat": {
+        "icon": "icon/minecraft_mangrove_boat.png",
+        "recipe": "mangrove_boat.json"
+    },
+    "mangrove_button": {
+        "icon": "icon/minecraft_mangrove_button.png",
+        "recipe": "mangrove_button.json"
+    },
+    "mangrove_chest_boat": {
+        "icon": "icon/minecraft_mangrove_chest_boat.png",
+        "recipe": "mangrove_chest_boat.json"
+    },
+    "mangrove_door": {
+        "icon": "icon/minecraft_mangrove_door.png",
+        "recipe": "mangrove_door.json"
+    },
+    "mangrove_fence": {
+        "icon": "icon/minecraft_mangrove_fence.png",
+        "recipe": "mangrove_fence.json"
+    },
+    "mangrove_fence_gate": {
+        "icon": "icon/minecraft_mangrove_fence_gate.png",
+        "recipe": "mangrove_fence_gate.json"
+    },
+    "mangrove_hanging_sign": {
+        "icon": "icon/minecraft_mangrove_hanging_sign.png",
+        "recipe": "mangrove_hanging_sign.json"
+    },
+    "mangrove_planks": {
+        "icon": "icon/minecraft_mangrove_planks.png",
+        "recipe": "mangrove_planks.json"
+    },
+    "mangrove_pressure_plate": {
+        "icon": "icon/minecraft_mangrove_pressure_plate.png",
+        "recipe": "mangrove_pressure_plate.json"
+    },
+    "mangrove_sign": {
+        "icon": "icon/minecraft_mangrove_sign.png",
+        "recipe": "mangrove_sign.json"
+    },
+    "mangrove_slab": {
+        "icon": "icon/minecraft_mangrove_slab.png",
+        "recipe": "mangrove_slab.json"
+    },
+    "mangrove_stairs": {
+        "icon": "icon/minecraft_mangrove_stairs.png",
+        "recipe": "mangrove_stairs.json"
+    },
+    "mangrove_trapdoor": {
+        "icon": "icon/minecraft_mangrove_trapdoor.png",
+        "recipe": "mangrove_trapdoor.json"
+    },
+    "mangrove_wood": {
+        "icon": "icon/minecraft_mangrove_wood.png",
+        "recipe": "mangrove_wood.json"
+    },
+    "map": {
+        "icon": "icon/minecraft_map.png",
+        "recipe": "map.json"
+    },
+    "melon": {
+        "icon": "icon/minecraft_melon.png",
+        "recipe": "melon.json"
+    },
+    "melon_seeds": {
+        "icon": "icon/minecraft_melon_seeds.png",
+        "recipe": "melon_seeds.json"
+    },
+    "minecart": {
+        "icon": "icon/minecraft_minecart.png",
+        "recipe": "minecart.json"
+    },
+    "mojang_banner_pattern": {
+        "icon": "icon/minecraft_mojang_banner_pattern.png",
+        "recipe": "mojang_banner_pattern.json"
+    },
+    "mossy_cobblestone": {
+        "icon": "icon/minecraft_mossy_cobblestone.png",
+        "recipe": [
+            "mossy_cobblestone_from_moss_block.json",
+            "mossy_cobblestone_from_vine.json"
+        ]
+    },
+    "mossy_cobblestone_slab": {
+        "icon": "icon/minecraft_mossy_cobblestone_slab.png",
+        "recipe": "mossy_cobblestone_slab.json"
+    },
+    "mossy_cobblestone_stairs": {
+        "icon": "icon/minecraft_mossy_cobblestone_stairs.png",
+        "recipe": "mossy_cobblestone_stairs.json"
+    },
+    "mossy_cobblestone_wall": {
+        "icon": "icon/minecraft_mossy_cobblestone_wall.png",
+        "recipe": "mossy_cobblestone_wall.json"
+    },
+    "mossy_stone_bricks": {
+        "icon": "icon/minecraft_mossy_stone_bricks.png",
+        "recipe": [
+            "mossy_stone_bricks_from_moss_block.json",
+            "mossy_stone_bricks_from_vine.json"
+        ]
+    },
+    "mossy_stone_brick_slab": {
+        "icon": "icon/minecraft_mossy_stone_brick_slab.png",
+        "recipe": "mossy_stone_brick_slab.json"
+    },
+    "mossy_stone_brick_stairs": {
+        "icon": "icon/minecraft_mossy_stone_brick_stairs.png",
+        "recipe": "mossy_stone_brick_stairs.json"
+    },
+    "mossy_stone_brick_wall": {
+        "icon": "icon/minecraft_mossy_stone_brick_wall.png",
+        "recipe": "mossy_stone_brick_wall.json"
+    },
+    "moss_carpet": {
+        "icon": "icon/minecraft_moss_carpet.png",
+        "recipe": "moss_carpet.json"
+    },
+    "muddy_mangrove_roots": {
+        "icon": "icon/minecraft_muddy_mangrove_roots.png",
+        "recipe": "muddy_mangrove_roots.json"
+    },
+    "mud_bricks": {
+        "icon": "icon/minecraft_mud_bricks.png",
+        "recipe": "mud_bricks.json"
+    },
+    "mud_brick_slab": {
+        "icon": "icon/minecraft_mud_brick_slab.png",
+        "recipe": "mud_brick_slab.json"
+    },
+    "mud_brick_stairs": {
+        "icon": "icon/minecraft_mud_brick_stairs.png",
+        "recipe": "mud_brick_stairs.json"
+    },
+    "mud_brick_wall": {
+        "icon": "icon/minecraft_mud_brick_wall.png",
+        "recipe": "mud_brick_wall.json"
+    },
+    "mushroom_stew": {
+        "icon": "icon/minecraft_mushroom_stew.png",
+        "recipe": "mushroom_stew.json"
+    },
+    "music_disc_5": {
+        "icon": "icon/minecraft_music_disc_5.png",
+        "recipe": "music_disc_5.json"
+    },
+    "netherite_block": {
+        "icon": "icon/minecraft_netherite_block.png",
+        "recipe": "netherite_block.json"
+    },
+    "netherite_ingot": {
+        "icon": "icon/minecraft_netherite_ingot.png",
+        "recipe": [
+            "netherite_ingot.json",
+            "netherite_ingot_from_netherite_block.json"
+        ]
+    },
+    "netherite_upgrade_smithing_template": {
+        "icon": "icon/minecraft_netherite_upgrade_smithing_template.png",
+        "recipe": "netherite_upgrade_smithing_template.json"
+    },
+    "nether_bricks": {
+        "icon": "icon/minecraft_nether_bricks.png",
+        "recipe": "nether_bricks.json"
+    },
+    "nether_brick_fence": {
+        "icon": "icon/minecraft_nether_brick_fence.png",
+        "recipe": "nether_brick_fence.json"
+    },
+    "nether_brick_slab": {
+        "icon": "icon/minecraft_nether_brick_slab.png",
+        "recipe": "nether_brick_slab.json"
+    },
+    "nether_brick_stairs": {
+        "icon": "icon/minecraft_nether_brick_stairs.png",
+        "recipe": "nether_brick_stairs.json"
+    },
+    "nether_brick_wall": {
+        "icon": "icon/minecraft_nether_brick_wall.png",
+        "recipe": "nether_brick_wall.json"
+    },
+    "nether_wart_block": {
+        "icon": "icon/minecraft_nether_wart_block.png",
+        "recipe": "nether_wart_block.json"
+    },
+    "note_block": {
+        "icon": "icon/minecraft_note_block.png",
+        "recipe": "note_block.json"
+    },
+    "oak_boat": {
+        "icon": "icon/minecraft_oak_boat.png",
+        "recipe": "oak_boat.json"
+    },
+    "oak_button": {
+        "icon": "icon/minecraft_oak_button.png",
+        "recipe": "oak_button.json"
+    },
+    "oak_chest_boat": {
+        "icon": "icon/minecraft_oak_chest_boat.png",
+        "recipe": "oak_chest_boat.json"
+    },
+    "oak_door": {
+        "icon": "icon/minecraft_oak_door.png",
+        "recipe": "oak_door.json"
+    },
+    "oak_fence": {
+        "icon": "icon/minecraft_oak_fence.png",
+        "recipe": "oak_fence.json"
+    },
+    "oak_fence_gate": {
+        "icon": "icon/minecraft_oak_fence_gate.png",
+        "recipe": "oak_fence_gate.json"
+    },
+    "oak_hanging_sign": {
+        "icon": "icon/minecraft_oak_hanging_sign.png",
+        "recipe": "oak_hanging_sign.json"
+    },
+    "oak_planks": {
+        "icon": "icon/minecraft_oak_planks.png",
+        "recipe": "oak_planks.json"
+    },
+    "oak_pressure_plate": {
+        "icon": "icon/minecraft_oak_pressure_plate.png",
+        "recipe": "oak_pressure_plate.json"
+    },
+    "oak_sign": {
+        "icon": "icon/minecraft_oak_sign.png",
+        "recipe": "oak_sign.json"
+    },
+    "oak_slab": {
+        "icon": "icon/minecraft_oak_slab.png",
+        "recipe": "oak_slab.json"
+    },
+    "oak_stairs": {
+        "icon": "icon/minecraft_oak_stairs.png",
+        "recipe": "oak_stairs.json"
+    },
+    "oak_trapdoor": {
+        "icon": "icon/minecraft_oak_trapdoor.png",
+        "recipe": "oak_trapdoor.json"
+    },
+    "oak_wood": {
+        "icon": "icon/minecraft_oak_wood.png",
+        "recipe": "oak_wood.json"
+    },
+    "observer": {
+        "icon": "icon/minecraft_observer.png",
+        "recipe": "observer.json"
+    },
+    "orange_banner": {
+        "icon": "icon/minecraft_orange_banner.png",
+        "recipe": "orange_banner.json"
+    },
+    "orange_bed": {
+        "icon": "icon/minecraft_orange_bed.png",
+        "recipe": "orange_bed.json"
+    },
+    "orange_candle": {
+        "icon": "icon/minecraft_orange_candle.png",
+        "recipe": "orange_candle.json"
+    },
+    "orange_carpet": {
+        "icon": "icon/minecraft_orange_carpet.png",
+        "recipe": "orange_carpet.json"
+    },
+    "orange_concrete_powder": {
+        "icon": "icon/minecraft_orange_concrete_powder.png",
+        "recipe": "orange_concrete_powder.json"
+    },
+    "orange_dye": {
+        "icon": "icon/minecraft_orange_dye.png",
+        "recipe": [
+            "orange_dye_from_orange_tulip.json",
+            "orange_dye_from_red_yellow.json",
+            "orange_dye_from_torchflower.json"
+        ]
+    },
+    "orange_stained_glass": {
+        "icon": "icon/minecraft_orange_stained_glass.png",
+        "recipe": "orange_stained_glass.json"
+    },
+    "orange_stained_glass_pane": {
+        "icon": "icon/minecraft_orange_stained_glass_pane.png",
+        "recipe": [
+            "orange_stained_glass_pane.json",
+            "orange_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "orange_terracotta": {
+        "icon": "icon/minecraft_orange_terracotta.png",
+        "recipe": "orange_terracotta.json"
+    },
+    "oxidized_chiseled_copper": {
+        "icon": "icon/minecraft_oxidized_chiseled_copper.png",
+        "recipe": "oxidized_chiseled_copper.json"
+    },
+    "oxidized_copper_bulb": {
+        "icon": "icon/minecraft_oxidized_copper_bulb.png",
+        "recipe": "oxidized_copper_bulb.json"
+    },
+    "oxidized_copper_grate": {
+        "icon": "icon/minecraft_oxidized_copper_grate.png",
+        "recipe": "oxidized_copper_grate.json"
+    },
+    "oxidized_cut_copper": {
+        "icon": "icon/minecraft_oxidized_cut_copper.png",
+        "recipe": "oxidized_cut_copper.json"
+    },
+    "oxidized_cut_copper_slab": {
+        "icon": "icon/minecraft_oxidized_cut_copper_slab.png",
+        "recipe": "oxidized_cut_copper_slab.json"
+    },
+    "oxidized_cut_copper_stairs": {
+        "icon": "icon/minecraft_oxidized_cut_copper_stairs.png",
+        "recipe": "oxidized_cut_copper_stairs.json"
+    },
+    "packed_ice": {
+        "icon": "icon/minecraft_packed_ice.png",
+        "recipe": "packed_ice.json"
+    },
+    "packed_mud": {
+        "icon": "icon/minecraft_packed_mud.png",
+        "recipe": "packed_mud.json"
+    },
+    "painting": {
+        "icon": "icon/minecraft_painting.png",
+        "recipe": "painting.json"
+    },
+    "paper": {
+        "icon": "icon/minecraft_paper.png",
+        "recipe": "paper.json"
+    },
+    "pink_banner": {
+        "icon": "icon/minecraft_pink_banner.png",
+        "recipe": "pink_banner.json"
+    },
+    "pink_bed": {
+        "icon": "icon/minecraft_pink_bed.png",
+        "recipe": "pink_bed.json"
+    },
+    "pink_candle": {
+        "icon": "icon/minecraft_pink_candle.png",
+        "recipe": "pink_candle.json"
+    },
+    "pink_carpet": {
+        "icon": "icon/minecraft_pink_carpet.png",
+        "recipe": "pink_carpet.json"
+    },
+    "pink_concrete_powder": {
+        "icon": "icon/minecraft_pink_concrete_powder.png",
+        "recipe": "pink_concrete_powder.json"
+    },
+    "pink_dye": {
+        "icon": "icon/minecraft_pink_dye.png",
+        "recipe": [
+            "pink_dye_from_peony.json",
+            "pink_dye_from_pink_petals.json",
+            "pink_dye_from_pink_tulip.json",
+            "pink_dye_from_red_white_dye.json"
+        ]
+    },
+    "pink_stained_glass": {
+        "icon": "icon/minecraft_pink_stained_glass.png",
+        "recipe": "pink_stained_glass.json"
+    },
+    "pink_stained_glass_pane": {
+        "icon": "icon/minecraft_pink_stained_glass_pane.png",
+        "recipe": [
+            "pink_stained_glass_pane.json",
+            "pink_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "pink_terracotta": {
+        "icon": "icon/minecraft_pink_terracotta.png",
+        "recipe": "pink_terracotta.json"
+    },
+    "piston": {
+        "icon": "icon/minecraft_piston.png",
+        "recipe": "piston.json"
+    },
+    "polished_andesite": {
+        "icon": "icon/minecraft_polished_andesite.png",
+        "recipe": "polished_andesite.json"
+    },
+    "polished_andesite_slab": {
+        "icon": "icon/minecraft_polished_andesite_slab.png",
+        "recipe": "polished_andesite_slab.json"
+    },
+    "polished_andesite_stairs": {
+        "icon": "icon/minecraft_polished_andesite_stairs.png",
+        "recipe": "polished_andesite_stairs.json"
+    },
+    "polished_basalt": {
+        "icon": "icon/minecraft_polished_basalt.png",
+        "recipe": "polished_basalt.json"
+    },
+    "polished_blackstone": {
+        "icon": "icon/minecraft_polished_blackstone.png",
+        "recipe": "polished_blackstone.json"
+    },
+    "polished_blackstone_bricks": {
+        "icon": "icon/minecraft_polished_blackstone_bricks.png",
+        "recipe": "polished_blackstone_bricks.json"
+    },
+    "polished_blackstone_brick_slab": {
+        "icon": "icon/minecraft_polished_blackstone_brick_slab.png",
+        "recipe": "polished_blackstone_brick_slab.json"
+    },
+    "polished_blackstone_brick_stairs": {
+        "icon": "icon/minecraft_polished_blackstone_brick_stairs.png",
+        "recipe": "polished_blackstone_brick_stairs.json"
+    },
+    "polished_blackstone_brick_wall": {
+        "icon": "icon/minecraft_polished_blackstone_brick_wall.png",
+        "recipe": "polished_blackstone_brick_wall.json"
+    },
+    "polished_blackstone_button": {
+        "icon": "icon/minecraft_polished_blackstone_button.png",
+        "recipe": "polished_blackstone_button.json"
+    },
+    "polished_blackstone_pressure_plate": {
+        "icon": "icon/minecraft_polished_blackstone_pressure_plate.png",
+        "recipe": "polished_blackstone_pressure_plate.json"
+    },
+    "polished_blackstone_slab": {
+        "icon": "icon/minecraft_polished_blackstone_slab.png",
+        "recipe": "polished_blackstone_slab.json"
+    },
+    "polished_blackstone_stairs": {
+        "icon": "icon/minecraft_polished_blackstone_stairs.png",
+        "recipe": "polished_blackstone_stairs.json"
+    },
+    "polished_blackstone_wall": {
+        "icon": "icon/minecraft_polished_blackstone_wall.png",
+        "recipe": "polished_blackstone_wall.json"
+    },
+    "polished_deepslate": {
+        "icon": "icon/minecraft_polished_deepslate.png",
+        "recipe": "polished_deepslate.json"
+    },
+    "polished_deepslate_slab": {
+        "icon": "icon/minecraft_polished_deepslate_slab.png",
+        "recipe": "polished_deepslate_slab.json"
+    },
+    "polished_deepslate_stairs": {
+        "icon": "icon/minecraft_polished_deepslate_stairs.png",
+        "recipe": "polished_deepslate_stairs.json"
+    },
+    "polished_deepslate_wall": {
+        "icon": "icon/minecraft_polished_deepslate_wall.png",
+        "recipe": "polished_deepslate_wall.json"
+    },
+    "polished_diorite": {
+        "icon": "icon/minecraft_polished_diorite.png",
+        "recipe": "polished_diorite.json"
+    },
+    "polished_diorite_slab": {
+        "icon": "icon/minecraft_polished_diorite_slab.png",
+        "recipe": "polished_diorite_slab.json"
+    },
+    "polished_diorite_stairs": {
+        "icon": "icon/minecraft_polished_diorite_stairs.png",
+        "recipe": "polished_diorite_stairs.json"
+    },
+    "polished_granite": {
+        "icon": "icon/minecraft_polished_granite.png",
+        "recipe": "polished_granite.json"
+    },
+    "polished_granite_slab": {
+        "icon": "icon/minecraft_polished_granite_slab.png",
+        "recipe": "polished_granite_slab.json"
+    },
+    "polished_granite_stairs": {
+        "icon": "icon/minecraft_polished_granite_stairs.png",
+        "recipe": "polished_granite_stairs.json"
+    },
+    "polished_tuff": {
+        "icon": "icon/minecraft_polished_tuff.png",
+        "recipe": "polished_tuff.json"
+    },
+    "polished_tuff_slab": {
+        "icon": "icon/minecraft_polished_tuff_slab.png",
+        "recipe": "polished_tuff_slab.json"
+    },
+    "polished_tuff_stairs": {
+        "icon": "icon/minecraft_polished_tuff_stairs.png",
+        "recipe": "polished_tuff_stairs.json"
+    },
+    "polished_tuff_wall": {
+        "icon": "icon/minecraft_polished_tuff_wall.png",
+        "recipe": "polished_tuff_wall.json"
+    },
+    "powered_rail": {
+        "icon": "icon/minecraft_powered_rail.png",
+        "recipe": "powered_rail.json"
+    },
+    "prismarine": {
+        "icon": "icon/minecraft_prismarine.png",
+        "recipe": "prismarine.json"
+    },
+    "prismarine_bricks": {
+        "icon": "icon/minecraft_prismarine_bricks.png",
+        "recipe": "prismarine_bricks.json"
+    },
+    "prismarine_brick_slab": {
+        "icon": "icon/minecraft_prismarine_brick_slab.png",
+        "recipe": "prismarine_brick_slab.json"
+    },
+    "prismarine_brick_stairs": {
+        "icon": "icon/minecraft_prismarine_brick_stairs.png",
+        "recipe": "prismarine_brick_stairs.json"
+    },
+    "prismarine_slab": {
+        "icon": "icon/minecraft_prismarine_slab.png",
+        "recipe": "prismarine_slab.json"
+    },
+    "prismarine_stairs": {
+        "icon": "icon/minecraft_prismarine_stairs.png",
+        "recipe": "prismarine_stairs.json"
+    },
+    "prismarine_wall": {
+        "icon": "icon/minecraft_prismarine_wall.png",
+        "recipe": "prismarine_wall.json"
+    },
+    "pumpkin_pie": {
+        "icon": "icon/minecraft_pumpkin_pie.png",
+        "recipe": "pumpkin_pie.json"
+    },
+    "pumpkin_seeds": {
+        "icon": "icon/minecraft_pumpkin_seeds.png",
+        "recipe": "pumpkin_seeds.json"
+    },
+    "purple_banner": {
+        "icon": "icon/minecraft_purple_banner.png",
+        "recipe": "purple_banner.json"
+    },
+    "purple_bed": {
+        "icon": "icon/minecraft_purple_bed.png",
+        "recipe": "purple_bed.json"
+    },
+    "purple_candle": {
+        "icon": "icon/minecraft_purple_candle.png",
+        "recipe": "purple_candle.json"
+    },
+    "purple_carpet": {
+        "icon": "icon/minecraft_purple_carpet.png",
+        "recipe": "purple_carpet.json"
+    },
+    "purple_concrete_powder": {
+        "icon": "icon/minecraft_purple_concrete_powder.png",
+        "recipe": "purple_concrete_powder.json"
+    },
+    "purple_dye": {
+        "icon": "icon/minecraft_purple_dye.png",
+        "recipe": "purple_dye.json"
+    },
+    "purple_stained_glass": {
+        "icon": "icon/minecraft_purple_stained_glass.png",
+        "recipe": "purple_stained_glass.json"
+    },
+    "purple_stained_glass_pane": {
+        "icon": "icon/minecraft_purple_stained_glass_pane.png",
+        "recipe": [
+            "purple_stained_glass_pane.json",
+            "purple_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "purple_terracotta": {
+        "icon": "icon/minecraft_purple_terracotta.png",
+        "recipe": "purple_terracotta.json"
+    },
+    "purpur_block": {
+        "icon": "icon/minecraft_purpur_block.png",
+        "recipe": "purpur_block.json"
+    },
+    "purpur_pillar": {
+        "icon": "icon/minecraft_purpur_pillar.png",
+        "recipe": "purpur_pillar.json"
+    },
+    "purpur_slab": {
+        "icon": "icon/minecraft_purpur_slab.png",
+        "recipe": "purpur_slab.json"
+    },
+    "purpur_stairs": {
+        "icon": "icon/minecraft_purpur_stairs.png",
+        "recipe": "purpur_stairs.json"
+    },
+    "quartz_block": {
+        "icon": "icon/minecraft_quartz_block.png",
+        "recipe": "quartz_block.json"
+    },
+    "quartz_bricks": {
+        "icon": "icon/minecraft_quartz_bricks.png",
+        "recipe": "quartz_bricks.json"
+    },
+    "quartz_pillar": {
+        "icon": "icon/minecraft_quartz_pillar.png",
+        "recipe": "quartz_pillar.json"
+    },
+    "quartz_slab": {
+        "icon": "icon/minecraft_quartz_slab.png",
+        "recipe": "quartz_slab.json"
+    },
+    "quartz_stairs": {
+        "icon": "icon/minecraft_quartz_stairs.png",
+        "recipe": "quartz_stairs.json"
+    },
+    "rabbit_stew": {
+        "icon": "icon/minecraft_rabbit_stew.png",
+        "recipe": [
+            "rabbit_stew_from_brown_mushroom.json",
+            "rabbit_stew_from_red_mushroom.json"
+        ]
+    },
+    "rail": {
+        "icon": "icon/minecraft_rail.png",
+        "recipe": "rail.json"
+    },
+    "raiser_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_raiser_armor_trim_smithing_template.png",
+        "recipe": "raiser_armor_trim_smithing_template.json"
+    },
+    "raw_copper": {
+        "icon": "icon/minecraft_raw_copper.png",
+        "recipe": "raw_copper.json"
+    },
+    "raw_copper_block": {
+        "icon": "icon/minecraft_raw_copper_block.png",
+        "recipe": "raw_copper_block.json"
+    },
+    "raw_gold": {
+        "icon": "icon/minecraft_raw_gold.png",
+        "recipe": "raw_gold.json"
+    },
+    "raw_gold_block": {
+        "icon": "icon/minecraft_raw_gold_block.png",
+        "recipe": "raw_gold_block.json"
+    },
+    "raw_iron": {
+        "icon": "icon/minecraft_raw_iron.png",
+        "recipe": "raw_iron.json"
+    },
+    "raw_iron_block": {
+        "icon": "icon/minecraft_raw_iron_block.png",
+        "recipe": "raw_iron_block.json"
+    },
+    "recovery_compass": {
+        "icon": "icon/minecraft_recovery_compass.png",
+        "recipe": "recovery_compass.json"
+    },
+    "redstone": {
+        "icon": "icon/minecraft_redstone.png",
+        "recipe": "redstone.json"
+    },
+    "redstone_block": {
+        "icon": "icon/minecraft_redstone_block.png",
+        "recipe": "redstone_block.json"
+    },
+    "redstone_lamp": {
+        "icon": "icon/minecraft_redstone_lamp.png",
+        "recipe": "redstone_lamp.json"
+    },
+    "redstone_torch": {
+        "icon": "icon/minecraft_redstone_torch.png",
+        "recipe": "redstone_torch.json"
+    },
+    "red_banner": {
+        "icon": "icon/minecraft_red_banner.png",
+        "recipe": "red_banner.json"
+    },
+    "red_bed": {
+        "icon": "icon/minecraft_red_bed.png",
+        "recipe": "red_bed.json"
+    },
+    "red_candle": {
+        "icon": "icon/minecraft_red_candle.png",
+        "recipe": "red_candle.json"
+    },
+    "red_carpet": {
+        "icon": "icon/minecraft_red_carpet.png",
+        "recipe": "red_carpet.json"
+    },
+    "red_concrete_powder": {
+        "icon": "icon/minecraft_red_concrete_powder.png",
+        "recipe": "red_concrete_powder.json"
+    },
+    "red_dye": {
+        "icon": "icon/minecraft_red_dye.png",
+        "recipe": [
+            "red_dye_from_beetroot.json",
+            "red_dye_from_poppy.json",
+            "red_dye_from_rose_bush.json",
+            "red_dye_from_tulip.json"
+        ]
+    },
+    "red_nether_bricks": {
+        "icon": "icon/minecraft_red_nether_bricks.png",
+        "recipe": "red_nether_bricks.json"
+    },
+    "red_nether_brick_slab": {
+        "icon": "icon/minecraft_red_nether_brick_slab.png",
+        "recipe": "red_nether_brick_slab.json"
+    },
+    "red_nether_brick_stairs": {
+        "icon": "icon/minecraft_red_nether_brick_stairs.png",
+        "recipe": "red_nether_brick_stairs.json"
+    },
+    "red_nether_brick_wall": {
+        "icon": "icon/minecraft_red_nether_brick_wall.png",
+        "recipe": "red_nether_brick_wall.json"
+    },
+    "red_sandstone": {
+        "icon": "icon/minecraft_red_sandstone.png",
+        "recipe": "red_sandstone.json"
+    },
+    "red_sandstone_slab": {
+        "icon": "icon/minecraft_red_sandstone_slab.png",
+        "recipe": "red_sandstone_slab.json"
+    },
+    "red_sandstone_stairs": {
+        "icon": "icon/minecraft_red_sandstone_stairs.png",
+        "recipe": "red_sandstone_stairs.json"
+    },
+    "red_sandstone_wall": {
+        "icon": "icon/minecraft_red_sandstone_wall.png",
+        "recipe": "red_sandstone_wall.json"
+    },
+    "red_stained_glass": {
+        "icon": "icon/minecraft_red_stained_glass.png",
+        "recipe": "red_stained_glass.json"
+    },
+    "red_stained_glass_pane": {
+        "icon": "icon/minecraft_red_stained_glass_pane.png",
+        "recipe": [
+            "red_stained_glass_pane.json",
+            "red_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "red_terracotta": {
+        "icon": "icon/minecraft_red_terracotta.png",
+        "recipe": "red_terracotta.json"
+    },
+    "repeater": {
+        "icon": "icon/minecraft_repeater.png",
+        "recipe": "repeater.json"
+    },
+    "respawn_anchor": {
+        "icon": "icon/minecraft_respawn_anchor.png",
+        "recipe": "respawn_anchor.json"
+    },
+    "rib_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_rib_armor_trim_smithing_template.png",
+        "recipe": "rib_armor_trim_smithing_template.json"
+    },
+    "sandstone": {
+        "icon": "icon/minecraft_sandstone.png",
+        "recipe": "sandstone.json"
+    },
+    "sandstone_slab": {
+        "icon": "icon/minecraft_sandstone_slab.png",
+        "recipe": "sandstone_slab.json"
+    },
+    "sandstone_stairs": {
+        "icon": "icon/minecraft_sandstone_stairs.png",
+        "recipe": "sandstone_stairs.json"
+    },
+    "sandstone_wall": {
+        "icon": "icon/minecraft_sandstone_wall.png",
+        "recipe": "sandstone_wall.json"
+    },
+    "scaffolding": {
+        "icon": "icon/minecraft_scaffolding.png",
+        "recipe": "scaffolding.json"
+    },
+    "sea_lantern": {
+        "icon": "icon/minecraft_sea_lantern.png",
+        "recipe": "sea_lantern.json"
+    },
+    "sentry_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_sentry_armor_trim_smithing_template.png",
+        "recipe": "sentry_armor_trim_smithing_template.json"
+    },
+    "shaper_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_shaper_armor_trim_smithing_template.png",
+        "recipe": "shaper_armor_trim_smithing_template.json"
+    },
+    "shears": {
+        "icon": "icon/minecraft_shears.png",
+        "recipe": "shears.json"
+    },
+    "shield": {
+        "icon": "icon/minecraft_shield.png",
+        "recipe": "shield.json"
+    },
+    "shulker_box": {
+        "icon": "icon/minecraft_shulker_box.png",
+        "recipe": "shulker_box.json"
+    },
+    "silence_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_silence_armor_trim_smithing_template.png",
+        "recipe": "silence_armor_trim_smithing_template.json"
+    },
+    "skull_banner_pattern": {
+        "icon": "icon/minecraft_skull_banner_pattern.png",
+        "recipe": "skull_banner_pattern.json"
+    },
+    "slime_ball": {
+        "icon": "icon/minecraft_slime_ball.png",
+        "recipe": "slime_ball.json"
+    },
+    "slime_block": {
+        "icon": "icon/minecraft_slime_block.png",
+        "recipe": "slime_block.json"
+    },
+    "smithing_table": {
+        "icon": "icon/minecraft_smithing_table.png",
+        "recipe": "smithing_table.json"
+    },
+    "smoker": {
+        "icon": "icon/minecraft_smoker.png",
+        "recipe": "smoker.json"
+    },
+    "smooth_quartz_slab": {
+        "icon": "icon/minecraft_smooth_quartz_slab.png",
+        "recipe": "smooth_quartz_slab.json"
+    },
+    "smooth_quartz_stairs": {
+        "icon": "icon/minecraft_smooth_quartz_stairs.png",
+        "recipe": "smooth_quartz_stairs.json"
+    },
+    "smooth_red_sandstone_slab": {
+        "icon": "icon/minecraft_smooth_red_sandstone_slab.png",
+        "recipe": "smooth_red_sandstone_slab.json"
+    },
+    "smooth_red_sandstone_stairs": {
+        "icon": "icon/minecraft_smooth_red_sandstone_stairs.png",
+        "recipe": "smooth_red_sandstone_stairs.json"
+    },
+    "smooth_sandstone_slab": {
+        "icon": "icon/minecraft_smooth_sandstone_slab.png",
+        "recipe": "smooth_sandstone_slab.json"
+    },
+    "smooth_sandstone_stairs": {
+        "icon": "icon/minecraft_smooth_sandstone_stairs.png",
+        "recipe": "smooth_sandstone_stairs.json"
+    },
+    "smooth_stone_slab": {
+        "icon": "icon/minecraft_smooth_stone_slab.png",
+        "recipe": "smooth_stone_slab.json"
+    },
+    "snout_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_snout_armor_trim_smithing_template.png",
+        "recipe": "snout_armor_trim_smithing_template.json"
+    },
+    "snow": {
+        "icon": "icon/minecraft_snow.png",
+        "recipe": "snow.json"
+    },
+    "snow_block": {
+        "icon": "icon/minecraft_snow_block.png",
+        "recipe": "snow_block.json"
+    },
+    "soul_campfire": {
+        "icon": "icon/minecraft_soul_campfire.png",
+        "recipe": "soul_campfire.json"
+    },
+    "soul_lantern": {
+        "icon": "icon/minecraft_soul_lantern.png",
+        "recipe": "soul_lantern.json"
+    },
+    "soul_torch": {
+        "icon": "icon/minecraft_soul_torch.png",
+        "recipe": "soul_torch.json"
+    },
+    "spectral_arrow": {
+        "icon": "icon/minecraft_spectral_arrow.png",
+        "recipe": "spectral_arrow.json"
+    },
+    "spire_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_spire_armor_trim_smithing_template.png",
+        "recipe": "spire_armor_trim_smithing_template.json"
+    },
+    "spruce_boat": {
+        "icon": "icon/minecraft_spruce_boat.png",
+        "recipe": "spruce_boat.json"
+    },
+    "spruce_button": {
+        "icon": "icon/minecraft_spruce_button.png",
+        "recipe": "spruce_button.json"
+    },
+    "spruce_chest_boat": {
+        "icon": "icon/minecraft_spruce_chest_boat.png",
+        "recipe": "spruce_chest_boat.json"
+    },
+    "spruce_door": {
+        "icon": "icon/minecraft_spruce_door.png",
+        "recipe": "spruce_door.json"
+    },
+    "spruce_fence": {
+        "icon": "icon/minecraft_spruce_fence.png",
+        "recipe": "spruce_fence.json"
+    },
+    "spruce_fence_gate": {
+        "icon": "icon/minecraft_spruce_fence_gate.png",
+        "recipe": "spruce_fence_gate.json"
+    },
+    "spruce_hanging_sign": {
+        "icon": "icon/minecraft_spruce_hanging_sign.png",
+        "recipe": "spruce_hanging_sign.json"
+    },
+    "spruce_planks": {
+        "icon": "icon/minecraft_spruce_planks.png",
+        "recipe": "spruce_planks.json"
+    },
+    "spruce_pressure_plate": {
+        "icon": "icon/minecraft_spruce_pressure_plate.png",
+        "recipe": "spruce_pressure_plate.json"
+    },
+    "spruce_sign": {
+        "icon": "icon/minecraft_spruce_sign.png",
+        "recipe": "spruce_sign.json"
+    },
+    "spruce_slab": {
+        "icon": "icon/minecraft_spruce_slab.png",
+        "recipe": "spruce_slab.json"
+    },
+    "spruce_stairs": {
+        "icon": "icon/minecraft_spruce_stairs.png",
+        "recipe": "spruce_stairs.json"
+    },
+    "spruce_trapdoor": {
+        "icon": "icon/minecraft_spruce_trapdoor.png",
+        "recipe": "spruce_trapdoor.json"
+    },
+    "spruce_wood": {
+        "icon": "icon/minecraft_spruce_wood.png",
+        "recipe": "spruce_wood.json"
+    },
+    "spyglass": {
+        "icon": "icon/minecraft_spyglass.png",
+        "recipe": "spyglass.json"
+    },
+    "stick": {
+        "icon": "icon/minecraft_stick.png",
+        "recipe": [
+            "stick.json",
+            "stick_from_bamboo_item.json"
+        ]
+    },
+    "sticky_piston": {
+        "icon": "icon/minecraft_sticky_piston.png",
+        "recipe": "sticky_piston.json"
+    },
+    "stonecutter": {
+        "icon": "icon/minecraft_stonecutter.png",
+        "recipe": "stonecutter.json"
+    },
+    "stone_axe": {
+        "icon": "icon/minecraft_stone_axe.png",
+        "recipe": "stone_axe.json"
+    },
+    "stone_bricks": {
+        "icon": "icon/minecraft_stone_bricks.png",
+        "recipe": "stone_bricks.json"
+    },
+    "stone_brick_slab": {
+        "icon": "icon/minecraft_stone_brick_slab.png",
+        "recipe": "stone_brick_slab.json"
+    },
+    "stone_brick_stairs": {
+        "icon": "icon/minecraft_stone_brick_stairs.png",
+        "recipe": "stone_brick_stairs.json"
+    },
+    "stone_brick_wall": {
+        "icon": "icon/minecraft_stone_brick_wall.png",
+        "recipe": "stone_brick_wall.json"
+    },
+    "stone_button": {
+        "icon": "icon/minecraft_stone_button.png",
+        "recipe": "stone_button.json"
+    },
+    "stone_hoe": {
+        "icon": "icon/minecraft_stone_hoe.png",
+        "recipe": "stone_hoe.json"
+    },
+    "stone_pickaxe": {
+        "icon": "icon/minecraft_stone_pickaxe.png",
+        "recipe": "stone_pickaxe.json"
+    },
+    "stone_pressure_plate": {
+        "icon": "icon/minecraft_stone_pressure_plate.png",
+        "recipe": "stone_pressure_plate.json"
+    },
+    "stone_shovel": {
+        "icon": "icon/minecraft_stone_shovel.png",
+        "recipe": "stone_shovel.json"
+    },
+    "stone_slab": {
+        "icon": "icon/minecraft_stone_slab.png",
+        "recipe": "stone_slab.json"
+    },
+    "stone_stairs": {
+        "icon": "icon/minecraft_stone_stairs.png",
+        "recipe": "stone_stairs.json"
+    },
+    "stone_sword": {
+        "icon": "icon/minecraft_stone_sword.png",
+        "recipe": "stone_sword.json"
+    },
+    "stripped_acacia_wood": {
+        "icon": "icon/minecraft_stripped_acacia_wood.png",
+        "recipe": "stripped_acacia_wood.json"
+    },
+    "stripped_birch_wood": {
+        "icon": "icon/minecraft_stripped_birch_wood.png",
+        "recipe": "stripped_birch_wood.json"
+    },
+    "stripped_cherry_wood": {
+        "icon": "icon/minecraft_stripped_cherry_wood.png",
+        "recipe": "stripped_cherry_wood.json"
+    },
+    "stripped_crimson_hyphae": {
+        "icon": "icon/minecraft_stripped_crimson_hyphae.png",
+        "recipe": "stripped_crimson_hyphae.json"
+    },
+    "stripped_dark_oak_wood": {
+        "icon": "icon/minecraft_stripped_dark_oak_wood.png",
+        "recipe": "stripped_dark_oak_wood.json"
+    },
+    "stripped_jungle_wood": {
+        "icon": "icon/minecraft_stripped_jungle_wood.png",
+        "recipe": "stripped_jungle_wood.json"
+    },
+    "stripped_mangrove_wood": {
+        "icon": "icon/minecraft_stripped_mangrove_wood.png",
+        "recipe": "stripped_mangrove_wood.json"
+    },
+    "stripped_oak_wood": {
+        "icon": "icon/minecraft_stripped_oak_wood.png",
+        "recipe": "stripped_oak_wood.json"
+    },
+    "stripped_spruce_wood": {
+        "icon": "icon/minecraft_stripped_spruce_wood.png",
+        "recipe": "stripped_spruce_wood.json"
+    },
+    "stripped_warped_hyphae": {
+        "icon": "icon/minecraft_stripped_warped_hyphae.png",
+        "recipe": "stripped_warped_hyphae.json"
+    },
+    "sugar": {
+        "icon": "icon/minecraft_sugar.png",
+        "recipe": [
+            "sugar_from_sugar_cane.json",
+            "sugar_from_honey_bottle.json"
+        ]
+    },
+    "suspicious_stew": {
+        "icon": "icon/minecraft_suspicious_stew.png",
+        "recipe": [
+            "suspicious_stew_from_allium.json",
+            "suspicious_stew_from_azure_bluet.json",
+            "suspicious_stew_from_blue_orchid.json",
+            "suspicious_stew_from_cornflower.json",
+            "suspicious_stew_from_dandelion.json",
+            "suspicious_stew_from_lily_of_the_valley.json",
+            "suspicious_stew_from_orange_tulip.json",
+            "suspicious_stew_from_oxeye_daisy.json",
+            "suspicious_stew_from_pink_tulip.json",
+            "suspicious_stew_from_poppy.json",
+            "suspicious_stew_from_red_tulip.json",
+            "suspicious_stew_from_torchflower.json",
+            "suspicious_stew_from_white_tulip.json",
+            "suspicious_stew_from_wither_rose.json"
+        ]
+    },
+    "target": {
+        "icon": "icon/minecraft_target.png",
+        "recipe": "target.json"
+    },
+    "tide_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_tide_armor_trim_smithing_template.png",
+        "recipe": "tide_armor_trim_smithing_template.json"
+    },
+    "tinted_glass": {
+        "icon": "icon/minecraft_tinted_glass.png",
+        "recipe": "tinted_glass.json"
+    },
+    "tnt": {
+        "icon": "icon/minecraft_tnt.png",
+        "recipe": "tnt.json"
+    },
+    "tnt_minecart": {
+        "icon": "icon/minecraft_tnt_minecart.png",
+        "recipe": "tnt_minecart.json"
+    },
+    "torch": {
+        "icon": "icon/minecraft_torch.png",
+        "recipe": "torch.json"
+    },
+    "trapped_chest": {
+        "icon": "icon/minecraft_trapped_chest.png",
+        "recipe": "trapped_chest.json"
+    },
+    "tripwire_hook": {
+        "icon": "icon/minecraft_tripwire_hook.png",
+        "recipe": "tripwire_hook.json"
+    },
+    "tuff_bricks": {
+        "icon": "icon/minecraft_tuff_bricks.png",
+        "recipe": "tuff_bricks.json"
+    },
+    "tuff_brick_slab": {
+        "icon": "icon/minecraft_tuff_brick_slab.png",
+        "recipe": "tuff_brick_slab.json"
+    },
+    "tuff_brick_stairs": {
+        "icon": "icon/minecraft_tuff_brick_stairs.png",
+        "recipe": "tuff_brick_stairs.json"
+    },
+    "tuff_brick_wall": {
+        "icon": "icon/minecraft_tuff_brick_wall.png",
+        "recipe": "tuff_brick_wall.json"
+    },
+    "tuff_slab": {
+        "icon": "icon/minecraft_tuff_slab.png",
+        "recipe": "tuff_slab.json"
+    },
+    "tuff_stairs": {
+        "icon": "icon/minecraft_tuff_stairs.png",
+        "recipe": "tuff_stairs.json"
+    },
+    "tuff_wall": {
+        "icon": "icon/minecraft_tuff_wall.png",
+        "recipe": "tuff_wall.json"
+    },
+    "turtle_helmet": {
+        "icon": "icon/minecraft_turtle_helmet.png",
+        "recipe": "turtle_helmet.json"
+    },
+    "vex_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_vex_armor_trim_smithing_template.png",
+        "recipe": "vex_armor_trim_smithing_template.json"
+    },
+    "ward_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_ward_armor_trim_smithing_template.png",
+        "recipe": "ward_armor_trim_smithing_template.json"
+    },
+    "warped_button": {
+        "icon": "icon/minecraft_warped_button.png",
+        "recipe": "warped_button.json"
+    },
+    "warped_door": {
+        "icon": "icon/minecraft_warped_door.png",
+        "recipe": "warped_door.json"
+    },
+    "warped_fence": {
+        "icon": "icon/minecraft_warped_fence.png",
+        "recipe": "warped_fence.json"
+    },
+    "warped_fence_gate": {
+        "icon": "icon/minecraft_warped_fence_gate.png",
+        "recipe": "warped_fence_gate.json"
+    },
+    "warped_fungus_on_a_stick": {
+        "icon": "icon/minecraft_warped_fungus_on_a_stick.png",
+        "recipe": "warped_fungus_on_a_stick.json"
+    },
+    "warped_hanging_sign": {
+        "icon": "icon/minecraft_warped_hanging_sign.png",
+        "recipe": "warped_hanging_sign.json"
+    },
+    "warped_hyphae": {
+        "icon": "icon/minecraft_warped_hyphae.png",
+        "recipe": "warped_hyphae.json"
+    },
+    "warped_planks": {
+        "icon": "icon/minecraft_warped_planks.png",
+        "recipe": "warped_planks.json"
+    },
+    "warped_pressure_plate": {
+        "icon": "icon/minecraft_warped_pressure_plate.png",
+        "recipe": "warped_pressure_plate.json"
+    },
+    "warped_sign": {
+        "icon": "icon/minecraft_warped_sign.png",
+        "recipe": "warped_sign.json"
+    },
+    "warped_slab": {
+        "icon": "icon/minecraft_warped_slab.png",
+        "recipe": "warped_slab.json"
+    },
+    "warped_stairs": {
+        "icon": "icon/minecraft_warped_stairs.png",
+        "recipe": "warped_stairs.json"
+    },
+    "warped_trapdoor": {
+        "icon": "icon/minecraft_warped_trapdoor.png",
+        "recipe": "warped_trapdoor.json"
+    },
+    "waxed_chiseled_copper": {
+        "icon": "icon/minecraft_waxed_chiseled_copper.png",
+        "recipe": [
+            "waxed_chiseled_copper.json",
+            "waxed_chiseled_copper_from_honeycomb.json"
+        ]
+    },
+    "waxed_copper_block": {
+        "icon": "icon/minecraft_waxed_copper_block.png",
+        "recipe": "waxed_copper_block_from_honeycomb.json"
+    },
+    "waxed_copper_bulb": {
+        "icon": "icon/minecraft_waxed_copper_bulb.png",
+        "recipe": [
+            "waxed_copper_bulb.json",
+            "waxed_copper_bulb_from_honeycomb.json"
+        ]
+    },
+    "waxed_copper_door": {
+        "icon": "icon/minecraft_waxed_copper_door.png",
+        "recipe": "waxed_copper_door_from_honeycomb.json"
+    },
+    "waxed_copper_grate": {
+        "icon": "icon/minecraft_waxed_copper_grate.png",
+        "recipe": [
+            "waxed_copper_grate.json",
+            "waxed_copper_grate_from_honeycomb.json"
+        ]
+    },
+    "waxed_copper_trapdoor": {
+        "icon": "icon/minecraft_waxed_copper_trapdoor.png",
+        "recipe": "waxed_copper_trapdoor_from_honeycomb.json"
+    },
+    "waxed_cut_copper": {
+        "icon": "icon/minecraft_waxed_cut_copper.png",
+        "recipe": [
+            "waxed_cut_copper.json",
+            "waxed_cut_copper_from_honeycomb.json"
+        ]
+    },
+    "waxed_cut_copper_slab": {
+        "icon": "icon/minecraft_waxed_cut_copper_slab.png",
+        "recipe": [
+            "waxed_cut_copper_slab.json",
+            "waxed_cut_copper_slab_from_honeycomb.json"
+        ]
+    },
+    "waxed_cut_copper_stairs": {
+        "icon": "icon/minecraft_waxed_cut_copper_stairs.png",
+        "recipe": [
+            "waxed_cut_copper_stairs.json",
+            "waxed_cut_copper_stairs_from_honeycomb.json"
+        ]
+    },
+    "waxed_exposed_chiseled_copper": {
+        "icon": "icon/minecraft_waxed_exposed_chiseled_copper.png",
+        "recipe": [
+            "waxed_exposed_chiseled_copper.json",
+            "waxed_exposed_chiseled_copper_from_honeycomb.json"
+        ]
+    },
+    "waxed_exposed_copper_bulb": {
+        "icon": "icon/minecraft_waxed_exposed_copper_bulb.png",
+        "recipe": [
+            "waxed_exposed_copper_bulb.json",
+            "waxed_exposed_copper_bulb_from_honeycomb.json"
+        ]
+    },
+    "waxed_exposed_copper_door": {
+        "icon": "icon/minecraft_waxed_exposed_copper_door.png",
+        "recipe": "waxed_exposed_copper_door_from_honeycomb.json"
+    },
+    "waxed_exposed_copper": {
+        "icon": "icon/minecraft_waxed_exposed_copper.png",
+        "recipe": "waxed_exposed_copper_from_honeycomb.json"
+    },
+    "waxed_exposed_copper_grate": {
+        "icon": "icon/minecraft_waxed_exposed_copper_grate.png",
+        "recipe": [
+            "waxed_exposed_copper_grate.json",
+            "waxed_exposed_copper_grate_from_honeycomb.json"
+        ]
+    },
+    "waxed_exposed_copper_trapdoor": {
+        "icon": "icon/minecraft_waxed_exposed_copper_trapdoor.png",
+        "recipe": "waxed_exposed_copper_trapdoor_from_honeycomb.json"
+    },
+    "waxed_exposed_cut_copper": {
+        "icon": "icon/minecraft_waxed_exposed_cut_copper.png",
+        "recipe": [
+            "waxed_exposed_cut_copper.json",
+            "waxed_exposed_cut_copper_from_honeycomb.json"
+        ]
+    },
+    "waxed_exposed_cut_copper_slab": {
+        "icon": "icon/minecraft_waxed_exposed_cut_copper_slab.png",
+        "recipe": [
+            "waxed_exposed_cut_copper_slab.json",
+            "waxed_exposed_cut_copper_slab_from_honeycomb.json"
+        ]
+    },
+    "waxed_exposed_cut_copper_stairs": {
+        "icon": "icon/minecraft_waxed_exposed_cut_copper_stairs.png",
+        "recipe": [
+            "waxed_exposed_cut_copper_stairs.json",
+            "waxed_exposed_cut_copper_stairs_from_honeycomb.json"
+        ]
+    },
+    "waxed_oxidized_chiseled_copper": {
+        "icon": "icon/minecraft_waxed_oxidized_chiseled_copper.png",
+        "recipe": [
+            "waxed_oxidized_chiseled_copper.json",
+            "waxed_oxidized_chiseled_copper_from_honeycomb.json"
+        ]
+    },
+    "waxed_oxidized_copper_bulb": {
+        "icon": "icon/minecraft_waxed_oxidized_copper_bulb.png",
+        "recipe": [
+            "waxed_oxidized_copper_bulb.json",
+            "waxed_oxidized_copper_bulb_from_honeycomb.json"
+        ]
+    },
+    "waxed_oxidized_copper_door": {
+        "icon": "icon/minecraft_waxed_oxidized_copper_door.png",
+        "recipe": "waxed_oxidized_copper_door_from_honeycomb.json"
+    },
+    "waxed_oxidized_copper": {
+        "icon": "icon/minecraft_waxed_oxidized_copper.png",
+        "recipe": "waxed_oxidized_copper_from_honeycomb.json"
+    },
+    "waxed_oxidized_copper_grate": {
+        "icon": "icon/minecraft_waxed_oxidized_copper_grate.png",
+        "recipe": [
+            "waxed_oxidized_copper_grate.json",
+            "waxed_oxidized_copper_grate_from_honeycomb.json"
+        ]
+    },
+    "waxed_oxidized_copper_trapdoor": {
+        "icon": "icon/minecraft_waxed_oxidized_copper_trapdoor.png",
+        "recipe": "waxed_oxidized_copper_trapdoor_from_honeycomb.json"
+    },
+    "waxed_oxidized_cut_copper": {
+        "icon": "icon/minecraft_waxed_oxidized_cut_copper.png",
+        "recipe": [
+            "waxed_oxidized_cut_copper.json",
+            "waxed_oxidized_cut_copper_from_honeycomb.json"
+        ]
+    },
+    "waxed_oxidized_cut_copper_slab": {
+        "icon": "icon/minecraft_waxed_oxidized_cut_copper_slab.png",
+        "recipe": [
+            "waxed_oxidized_cut_copper_slab.json",
+            "waxed_oxidized_cut_copper_slab_from_honeycomb.json"
+        ]
+    },
+    "waxed_oxidized_cut_copper_stairs": {
+        "icon": "icon/minecraft_waxed_oxidized_cut_copper_stairs.png",
+        "recipe": [
+            "waxed_oxidized_cut_copper_stairs.json",
+            "waxed_oxidized_cut_copper_stairs_from_honeycomb.json"
+        ]
+    },
+    "waxed_weathered_chiseled_copper": {
+        "icon": "icon/minecraft_waxed_weathered_chiseled_copper.png",
+        "recipe": [
+            "waxed_weathered_chiseled_copper.json",
+            "waxed_weathered_chiseled_copper_from_honeycomb.json"
+        ]
+    },
+    "waxed_weathered_copper_bulb": {
+        "icon": "icon/minecraft_waxed_weathered_copper_bulb.png",
+        "recipe": [
+            "waxed_weathered_copper_bulb.json",
+            "waxed_weathered_copper_bulb_from_honeycomb.json"
+        ]
+    },
+    "waxed_weathered_copper_door": {
+        "icon": "icon/minecraft_waxed_weathered_copper_door.png",
+        "recipe": "waxed_weathered_copper_door_from_honeycomb.json"
+    },
+    "waxed_weathered_copper": {
+        "icon": "icon/minecraft_waxed_weathered_copper.png",
+        "recipe": "waxed_weathered_copper_from_honeycomb.json"
+    },
+    "waxed_weathered_copper_grate": {
+        "icon": "icon/minecraft_waxed_weathered_copper_grate.png",
+        "recipe": [
+            "waxed_weathered_copper_grate.json",
+            "waxed_weathered_copper_grate_from_honeycomb.json"
+        ]
+    },
+    "waxed_weathered_copper_trapdoor": {
+        "icon": "icon/minecraft_waxed_weathered_copper_trapdoor.png",
+        "recipe": "waxed_weathered_copper_trapdoor_from_honeycomb.json"
+    },
+    "waxed_weathered_cut_copper": {
+        "icon": "icon/minecraft_waxed_weathered_cut_copper.png",
+        "recipe": [
+            "waxed_weathered_cut_copper.json",
+            "waxed_weathered_cut_copper_from_honeycomb.json"
+        ]
+    },
+    "waxed_weathered_cut_copper_slab": {
+        "icon": "icon/minecraft_waxed_weathered_cut_copper_slab.png",
+        "recipe": [
+            "waxed_weathered_cut_copper_slab.json",
+            "waxed_weathered_cut_copper_slab_from_honeycomb.json"
+        ]
+    },
+    "waxed_weathered_cut_copper_stairs": {
+        "icon": "icon/minecraft_waxed_weathered_cut_copper_stairs.png",
+        "recipe": [
+            "waxed_weathered_cut_copper_stairs.json",
+            "waxed_weathered_cut_copper_stairs_from_honeycomb.json"
+        ]
+    },
+    "wayfinder_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_wayfinder_armor_trim_smithing_template.png",
+        "recipe": "wayfinder_armor_trim_smithing_template.json"
+    },
+    "weathered_chiseled_copper": {
+        "icon": "icon/minecraft_weathered_chiseled_copper.png",
+        "recipe": "weathered_chiseled_copper.json"
+    },
+    "weathered_copper_bulb": {
+        "icon": "icon/minecraft_weathered_copper_bulb.png",
+        "recipe": "weathered_copper_bulb.json"
+    },
+    "weathered_copper_grate": {
+        "icon": "icon/minecraft_weathered_copper_grate.png",
+        "recipe": "weathered_copper_grate.json"
+    },
+    "weathered_cut_copper": {
+        "icon": "icon/minecraft_weathered_cut_copper.png",
+        "recipe": "weathered_cut_copper.json"
+    },
+    "weathered_cut_copper_slab": {
+        "icon": "icon/minecraft_weathered_cut_copper_slab.png",
+        "recipe": "weathered_cut_copper_slab.json"
+    },
+    "weathered_cut_copper_stairs": {
+        "icon": "icon/minecraft_weathered_cut_copper_stairs.png",
+        "recipe": "weathered_cut_copper_stairs.json"
+    },
+    "wheat": {
+        "icon": "icon/minecraft_wheat.png",
+        "recipe": "wheat.json"
+    },
+    "white_banner": {
+        "icon": "icon/minecraft_white_banner.png",
+        "recipe": "white_banner.json"
+    },
+    "white_bed": {
+        "icon": "icon/minecraft_white_bed.png",
+        "recipe": "white_bed.json"
+    },
+    "white_candle": {
+        "icon": "icon/minecraft_white_candle.png",
+        "recipe": "white_candle.json"
+    },
+    "white_carpet": {
+        "icon": "icon/minecraft_white_carpet.png",
+        "recipe": "white_carpet.json"
+    },
+    "white_concrete_powder": {
+        "icon": "icon/minecraft_white_concrete_powder.png",
+        "recipe": "white_concrete_powder.json"
+    },
+    "white_dye": {
+        "icon": "icon/minecraft_white_dye.png",
+        "recipe": [
+            "white_dye.json",
+            "white_dye_from_lily_of_the_valley.json"
+        ]
+    },
+    "white_stained_glass": {
+        "icon": "icon/minecraft_white_stained_glass.png",
+        "recipe": "white_stained_glass.json"
+    },
+    "white_stained_glass_pane": {
+        "icon": "icon/minecraft_white_stained_glass_pane.png",
+        "recipe": [
+            "white_stained_glass_pane.json",
+            "white_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "white_terracotta": {
+        "icon": "icon/minecraft_white_terracotta.png",
+        "recipe": "white_terracotta.json"
+    },
+    "white_wool": {
+        "icon": "icon/minecraft_white_wool.png",
+        "recipe": "white_wool_from_string.json"
+    },
+    "wild_armor_trim_smithing_template": {
+        "icon": "icon/minecraft_wild_armor_trim_smithing_template.png",
+        "recipe": "wild_armor_trim_smithing_template.json"
+    },
+    "wind_charge": {
+        "icon": "icon/minecraft_wind_charge.png",
+        "recipe": "wind_charge.json"
+    },
+    "wolf_armor": {
+        "icon": "icon/minecraft_wolf_armor.png",
+        "recipe": "wolf_armor.json"
+    },
+    "wooden_axe": {
+        "icon": "icon/minecraft_wooden_axe.png",
+        "recipe": "wooden_axe.json"
+    },
+    "wooden_hoe": {
+        "icon": "icon/minecraft_wooden_hoe.png",
+        "recipe": "wooden_hoe.json"
+    },
+    "wooden_pickaxe": {
+        "icon": "icon/minecraft_wooden_pickaxe.png",
+        "recipe": "wooden_pickaxe.json"
+    },
+    "wooden_shovel": {
+        "icon": "icon/minecraft_wooden_shovel.png",
+        "recipe": "wooden_shovel.json"
+    },
+    "wooden_sword": {
+        "icon": "icon/minecraft_wooden_sword.png",
+        "recipe": "wooden_sword.json"
+    },
+    "writable_book": {
+        "icon": "icon/minecraft_writable_book.png",
+        "recipe": "writable_book.json"
+    },
+    "yellow_banner": {
+        "icon": "icon/minecraft_yellow_banner.png",
+        "recipe": "yellow_banner.json"
+    },
+    "yellow_bed": {
+        "icon": "icon/minecraft_yellow_bed.png",
+        "recipe": "yellow_bed.json"
+    },
+    "yellow_candle": {
+        "icon": "icon/minecraft_yellow_candle.png",
+        "recipe": "yellow_candle.json"
+    },
+    "yellow_carpet": {
+        "icon": "icon/minecraft_yellow_carpet.png",
+        "recipe": "yellow_carpet.json"
+    },
+    "yellow_concrete_powder": {
+        "icon": "icon/minecraft_yellow_concrete_powder.png",
+        "recipe": "yellow_concrete_powder.json"
+    },
+    "yellow_dye": {
+        "icon": "icon/minecraft_yellow_dye.png",
+        "recipe": [
+            "yellow_dye_from_dandelion.json",
+            "yellow_dye_from_sunflower.json"
+        ]
+    },
+    "yellow_stained_glass": {
+        "icon": "icon/minecraft_yellow_stained_glass.png",
+        "recipe": "yellow_stained_glass.json"
+    },
+    "yellow_stained_glass_pane": {
+        "icon": "icon/minecraft_yellow_stained_glass_pane.png",
+        "recipe": [
+            "yellow_stained_glass_pane.json",
+            "yellow_stained_glass_pane_from_glass_pane.json"
+        ]
+    },
+    "yellow_terracotta": {
+        "icon": "icon/minecraft_yellow_terracotta.png",
+        "recipe": "yellow_terracotta.json"
+    }
+}

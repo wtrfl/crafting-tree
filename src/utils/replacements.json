@@ -1,0 +1,18 @@
+{
+    "#minecraft:planks": "oak_planks",
+    "#minecraft:wooden_slabs": "oak_slab",
+    "#minecraft:diamond_tool_materials": "diamond",
+    "#minecraft:iron_tool_materials": "iron_ingot",
+    "#minecraft:gold_tool_materials": "gold_ingot",
+    "#minecraft:stone_tool_materials": "cobblestone",
+    "#minecraft:wooden_tool_materials": "oak_planks",
+
+    "#oak_logs": "oak_wood",
+    "#acacia_logs": "acacia_wood",
+    "#birch_logs": "birch_wood",
+    "#cherry_logs": "cherry_wood",
+    "#dark_oak_logs": "dark_oak_wood",
+    "#jungle_logs": "jungle_wood",
+    "#mangrove_logs": "mangrove_wood",
+    "#spruce_logs": "spruce_wood"
+}

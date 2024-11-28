@@ -1,0 +1,256 @@
+.react-app {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+// dialogue
+
+.dialogue-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .dialogue {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .header {
+      background-color: #eee;
+      padding: 16px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .recipe-row {
+      display: flex;
+      gap: 24px;
+      padding: 24px;
+    }
+  }
+}
+
+code {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  padding: 4px 2px;
+  margin: 0 2px;
+}
+
+// search
+
+.search {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 70px;
+
+  .search-box {
+    position: relative;
+    width: 300px;
+
+    input {
+      width: 100%;
+      padding: 5px 6px;
+    }
+
+    .autofill {
+      position: absolute;
+      z-index: 10;
+      background-color: white;
+      width: 100%;
+
+      -webkit-box-shadow:0px 10px 39px 10px rgba(62,66,66,0.08);
+      -moz-box-shadow: 0px 10px 39px 10px rgba(62,66,66,0.08);
+      box-shadow: 0px 10px 39px 10px rgba(62,66,66,0.08);
+      
+      .result {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        padding: 8px;
+        cursor: pointer;
+
+        &:hover {
+          background-color: #ccc;
+        }
+
+        img, .image-placeholder {
+          width: 35px;
+        }
+      }
+    }
+  }
+
+  input[type=number] {
+    -moz-appearance: textfield;
+    width: 50px;
+
+    &::-webkit-outer-spin-button,
+    &::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+
+    padding: 5px 6px;
+    text-align: center;
+  }
+}
+
+// tree
+
+$border-width: 1px;
+$reverse: false;
+
+ul {
+  position: relative;
+  padding: 1em 0; 
+  white-space: nowrap;
+  margin: 0 auto;
+  text-align: center;
+  &::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+}
+
+li {
+  display: inline-block; // need white-space fix
+  vertical-align: top;
+  text-align: center;
+	list-style-type: none;
+	position: relative;
+	padding: 1em .5em 0 .5em;
+  &::before,
+  &::after {
+    content: '';
+    position: absolute; 
+    top: 0; 
+    right: 50%;
+    border-top: $border-width solid #ccc;
+    width: 50%; 
+    height: 1em;
+  }
+  &::after {
+    right: auto; 
+    left: 50%;
+	  border-left: $border-width solid #ccc;
+  }
+  &:first-child::before,
+  &:last-child::after {
+    border: 0 none;
+  }
+  &:last-child::before{
+    border-right: $border-width solid #ccc;
+    border-radius: 0 5px 0 0;
+  }
+  &:first-child::after{
+    border-radius: 5px 0 0 0;
+  }
+  &:only-child::after {
+    border-radius: 0;
+    border-left: $border-width solid #ccc;
+  }
+  &:only-child::before {
+    border-radius: 0;
+    border: none;
+  }
+  &.top-level::before,
+  &.top-level::after {
+    display: none;
+  }
+}
+
+ul ul::before{
+	content: '';
+	position: absolute; 
+  top: 0; 
+  left: 50%;
+	border-left: $border-width solid #ccc;
+	width: 0; 
+  height: 1em;
+}
+
+li div {
+	border: $border-width solid #ccc;
+	padding: .5em .75em;
+	text-decoration: none;
+	display: inline-flex;
+	border-radius: 5px;
+  color: #333;
+  position: relative;
+  top: $border-width;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+
+li > div > * {
+  pointer-events: none;
+}
+
+.crafting-grid {
+  width: 150px;
+  aspect-ratio: 1;
+
+  position: absolute;
+  transform: translate(0, -100%);
+
+  z-index: 100;
+
+  pointer-events: none;
+}
+
+.inline-crafting-grid {
+  position: relative;
+  width: 150px;
+  aspect-ratio: 1;
+  
+  &:hover {
+    cursor: pointer;
+    scale: 1.05;
+  }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 35px);
+  grid-template-rows: repeat(3, 35px);
+  padding: 17px;
+  gap: 5px;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  z-index: 101;
+
+  img {
+    width: 35px;
+    aspect-ratio: 1;
+  }
+}
+
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: 150px;
+  aspect-ratio: 1;
+}
