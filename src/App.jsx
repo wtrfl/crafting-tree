@@ -8,9 +8,10 @@ import Item from './Components/Item';
 import Search from './Components/Search';
 import HoverCraftingGrid from './Components/HoverCraftingGrid';
 import Dialogue from './Components/Dialogue';
+import Loader from './Components/Loader';
 
 function App() {
-    const [data, setData] = useState({})
+    const [data, setData] = useState(null)
     
     const [targetItem, setTargetItem] = useState("bookshelf");
     const [targetCount, setTargetCount] = useState(1);
@@ -19,6 +20,7 @@ function App() {
 
     useEffect(() => {
         (async () => {
+            setData(null);
             const response = await tree(targetItem, targetCount, setDialogue);
             setData(response);
         })();
@@ -45,9 +47,14 @@ function App() {
         <HoverProvider>
             <div className="react-app" onMouseMove={handleMouseMove}>
                 <Search setTarget={setTarget} />
-                <ul>
-                    <Item item={data} topLevel />
-                </ul>
+                {!data && (
+                    <Loader />
+                )}
+                { data && (
+                    <ul>
+                        <Item item={data} topLevel />
+                    </ul>
+                )}
                 <div className="crafting-grid" style={{top: position.y, left: position.x}}>
                     <HoverCraftingGrid pos={position} />
                 </div>
