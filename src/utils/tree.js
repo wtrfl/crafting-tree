@@ -19,7 +19,7 @@ const tree = async(item, count, setDialogue) => {
     // this will have a list of every ingredient this item needs to be crafted
     let ingredients = [];
 
-    let path = '../data/recipes/';
+    let path;
 
     // pull this item's crafting recipe
     try {
@@ -28,10 +28,12 @@ const tree = async(item, count, setDialogue) => {
         // if the item can be crafted multiple ways, open a dialogue so the user can choose
         if (Array.isArray(index[item].recipe)) {
             const choice = await pick(index[item].recipe, item, setDialogue)
-            path += choice
+            path = choice
         } else {
-            path += index[item].recipe
+            path = index[item].recipe
         }
+
+        console.log(path)
 
         // fetch and parse the recipe data
         const response = await fetch(path)
@@ -98,10 +100,13 @@ const tree = async(item, count, setDialogue) => {
     let object = {
         item: item,
         count: count,
-        r: path.split("/")[3]
+        
     }
 
-    if (ingredients) object.ingredients = dug;
+    if (ingredients) {
+        object.ingredients = dug;
+        object.recipeUsed = path;
+    }
 
     return object;
 

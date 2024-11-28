@@ -15,7 +15,7 @@ export default async function createGridFromRecipe(item) {
 
     try {
 
-        const path = '../data/recipes/' + item
+        const path = item
 
         await fetch(path)
             .then((response) => response.json())

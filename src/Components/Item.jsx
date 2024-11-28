@@ -8,8 +8,8 @@ const Item = (({ item, topLevel = false }) => {
     const { hoverValue, setHoverValue } = useHoverContext();
 
     const handleMouseEnter = () => {
-        if (hoverValue !== item.r) {
-          setHoverValue(item.r); // Only update if the value is different
+        if (hoverValue !== item.recipeUsed) {
+          setHoverValue(item.recipeUsed); // Only update if the value is different
         }
       };
     const handleMouseLeave = () => setHoverValue(false);
