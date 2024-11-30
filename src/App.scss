@@ -3,6 +3,8 @@
     height: 100%;
     margin: 0;
     font-family: sans-serif;
+
+    background-color: #ce804c;
 }
 
 // loader
@@ -183,6 +185,8 @@ li {
 	list-style-type: none;
 	position: relative;
 	padding: 1em .5em 0 .5em;
+
+  font-family: 'Minecraftia';
   &::before,
   &::after {
     content: '';
