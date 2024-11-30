@@ -4,7 +4,7 @@
     margin: 0;
     font-family: sans-serif;
 
-    background-color: #ce804c;
+    background-color: #ce9066;
 }
 
 // loader
@@ -165,6 +165,8 @@ code {
 $border-width: 1px;
 $reverse: false;
 
+$border-color: rgba(0,0,0,0.35);
+
 ul {
   position: relative;
   padding: 1em 0; 
@@ -186,28 +188,27 @@ li {
 	position: relative;
 	padding: 1em .5em 0 .5em;
 
-  font-family: 'Minecraftia';
   &::before,
   &::after {
     content: '';
     position: absolute; 
     top: 0; 
     right: 50%;
-    border-top: $border-width solid #ccc;
+    border-top: $border-width solid $border-color;
     width: 50%; 
     height: 1em;
   }
   &::after {
     right: auto; 
     left: 50%;
-	  border-left: $border-width solid #ccc;
+	  border-left: $border-width solid $border-color;
   }
   &:first-child::before,
   &:last-child::after {
     border: 0 none;
   }
   &:last-child::before{
-    border-right: $border-width solid #ccc;
+    border-right: $border-width solid $border-color;
     border-radius: 0 5px 0 0;
   }
   &:first-child::after{
@@ -215,7 +216,7 @@ li {
   }
   &:only-child::after {
     border-radius: 0;
-    border-left: $border-width solid #ccc;
+    border-left: $border-width solid $border-color;
   }
   &:only-child::before {
     border-radius: 0;
@@ -232,13 +233,12 @@ ul ul::before{
 	position: absolute; 
   top: 0; 
   left: 50%;
-	border-left: $border-width solid #ccc;
+	border-left: $border-width solid $border-color;
 	width: 0; 
   height: 1em;
 }
 
 li div {
-	border: $border-width solid #ccc;
 	padding: .5em .75em;
 	text-decoration: none;
 	display: inline-flex;
@@ -249,8 +249,23 @@ li div {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 4px;
   
-  
+  font-family: 'Minecraft';
+  font-size: 14pt;
+
+  width: 81px;
+  height: 108px; 
+
+  background-image: url("/public/item-bg.png");
+  background-size: cover;
+
+  border: none;
+
+  img {
+    width: 100%;
+    aspect-ratio: 1;
+  }
 }
 
 li > div > * {
