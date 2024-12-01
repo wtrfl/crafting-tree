@@ -1,5 +1,6 @@
 import { useState } from "react";
 import index from "../utils/file_index.json"
+import ThemedInput from "./ThemedInput";
 
 export default function Search({ setTarget }) {
     const [count, setCount] = useState(64)
@@ -31,8 +32,7 @@ export default function Search({ setTarget }) {
     return (
         <div className="search">
             <div className="search-box">
-                <input
-                    type="text"
+                <ThemedInput
                     value={item}
                     onChange={(e) => handleItemInput(e)} 
                     onFocus={handleFocus}
@@ -50,7 +50,7 @@ export default function Search({ setTarget }) {
                     </div>
                 )}
             </div>
-            <input
+            <ThemedInput
                 type="number"
                 step={1}
                 min={1}

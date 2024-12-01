@@ -160,6 +160,19 @@ code {
   }
 }
 
+.input-container {
+  border: 2px solid #1e1e20;
+
+  input {
+    font-family: 'Minecraft';
+    outline: none;
+    color: white;
+    background-color: #323234;
+    border: none;
+    border-top: 3px solid #242426;
+  }
+}
+
 // tree
 
 $border-width: 1px;
