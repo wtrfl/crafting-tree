@@ -37,6 +37,7 @@ export default function Search({ setTarget }) {
                     onChange={(e) => handleItemInput(e)} 
                     onFocus={handleFocus}
                     onBlur={handleBlur}
+                    placeholder="'cake' or 'bookshelf'"
                 />
                 {autofillResults.length > 0 && focused && (
                     <div className="autofill">
